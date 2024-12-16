@@ -1,0 +1,2002 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="beINSports NEWS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png" group-title="BEINSPORTS | SPORTS", BEINSPORTS NEWS FHD
+http://567487.dynahost.ovh:80/peluco28/21320450/117704
+
+#EXTINF:-1 tvg-id="beINSports NEWS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/NEWS_DIGITAL_Mono.png" group-title="BEINSPORTS | SPORTS", beIN SPORTS NEWS HD
+http://567487.dynahost.ovh:80/peluco28/21320450/105523
+
+#EXTINF:-1 tvg-id="beINSports NEWS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/bein_SPORTS_FTA_DIGITAL_Mono.png" group-title="BEINSPORTS | SPORTS", beIN SPORTS HD
+http://567487.dynahost.ovh:80/peluco28/21320450/60714
+
+#EXTINF:-1 tvg-id="beIN SPORTS 4K" tvg-logo="noimage.png" group-title="BEINSPORTS | SPORTS", beIN SPORTS 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/139969
+
+#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_AR.bein" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="BEINSPORTS | SPORTS", beIN SPORTS 1 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/119324
+
+#EXTINF:-1 tvg-id="beIN_SPORTS1_PREMIUM_Digital_Mono.AR.bein" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="BEINSPORTS | SPORTS", beIN SPORTS 1 FHD
+http://567487.dynahost.ovh:80/peluco28/21320450/119325
+
+#EXTINF:-1 tvg-id="beINSports NEWS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="BEINSPORTS | SPORTS", beIN SPORTS 1 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/29741
+
+#EXTINF:-1 tvg-id="beINSports NEWS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="BEINSPORTS | SPORTS", beIN SPORTS 1 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/49223
+
+#EXTINF:-1 tvg-id="beINSports 2" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="BEINSPORTS | SPORTS", beIN SPORTS 2 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/119326
+
+#EXTINF:-1 tvg-id="beINSports 2" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="BEINSPORTS | SPORTS", beIN SPORTS 2 FHD
+http://567487.dynahost.ovh:80/peluco28/21320450/119327
+
+#EXTINF:-1 tvg-id="beINSports NEWS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="BEINSPORTS | SPORTS", beIN SPORTS 2 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/29740
+
+#EXTINF:-1 tvg-id="beINSports NEWS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="BEINSPORTS | SPORTS", beIN SPORTS 2 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/49222
+
+#EXTINF:-1 tvg-id="beINSports 3" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="BEINSPORTS | SPORTS", beIN SPORTS 3 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/119328
+
+#EXTINF:-1 tvg-id="beINSports 3" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="BEINSPORTS | SPORTS", beIN SPORTS 3 FHD
+http://567487.dynahost.ovh:80/peluco28/21320450/119329
+
+#EXTINF:-1 tvg-id="beINSports NEWS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="BEINSPORTS | SPORTS", beIN SPORTS 3 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/29739
+
+#EXTINF:-1 tvg-id="beINSports NEWS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png" group-title="BEINSPORTS | SPORTS", beIN SPORTS 3 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/49221
+
+#EXTINF:-1 tvg-id="beINSports 4" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="BEINSPORTS | SPORTS", beIN SPORTS 4 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/119330
+
+#EXTINF:-1 tvg-id="beINSports 4" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="BEINSPORTS | SPORTS", beIN SPORTS 4 FHD
+http://567487.dynahost.ovh:80/peluco28/21320450/119331
+
+#EXTINF:-1 tvg-id="beINSports NEWS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="BEINSPORTS | SPORTS", beIN SPORTS 4 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/29738
+
+#EXTINF:-1 tvg-id="beINSports NEWS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png" group-title="BEINSPORTS | SPORTS", beIN SPORTS 4 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/49220
+
+#EXTINF:-1 tvg-id="beINSports 5" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="BEINSPORTS | SPORTS", beIN SPORTS 5 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/119332
+
+#EXTINF:-1 tvg-id="beINSports 5" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="BEINSPORTS | SPORTS", beIN SPORTS 5 FHD
+http://567487.dynahost.ovh:80/peluco28/21320450/119333
+
+#EXTINF:-1 tvg-id="beINSports NEWS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="BEINSPORTS | SPORTS", beIN SPORTS 5 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/29737
+
+#EXTINF:-1 tvg-id="beINSports NEWS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png" group-title="BEINSPORTS | SPORTS", beIN SPORTS 5 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/49219
+
+#EXTINF:-1 tvg-id="beINSports 6" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png" group-title="BEINSPORTS | SPORTS", beIN SPORTS 6 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/119334
+
+#EXTINF:-1 tvg-id="beINSports 6" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png" group-title="BEINSPORTS | SPORTS", beIN SPORTS 6 FHD
+http://567487.dynahost.ovh:80/peluco28/21320450/119335
+
+#EXTINF:-1 tvg-id="beINSports NEWS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png" group-title="BEINSPORTS | SPORTS", beIN SPORTS 6 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/29736
+
+#EXTINF:-1 tvg-id="beINSports NEWS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png" group-title="BEINSPORTS | SPORTS", beIN SPORTS 6 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/49218
+
+#EXTINF:-1 tvg-id="beINSports 7" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="BEINSPORTS | SPORTS", beIN SPORTS 7 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/119336
+
+#EXTINF:-1 tvg-id="beINSports 7" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="BEINSPORTS | SPORTS", beIN SPORTS 7 FHD
+http://567487.dynahost.ovh:80/peluco28/21320450/119337
+
+#EXTINF:-1 tvg-id="beINSports NEWS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="BEINSPORTS | SPORTS", beIN SPORTS 7 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/29735
+
+#EXTINF:-1 tvg-id="beINSports NEWS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png" group-title="BEINSPORTS | SPORTS", beIN SPORTS 7 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/49217
+
+#EXTINF:-1 tvg-id="beINSports 8" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" group-title="BEINSPORTS | SPORTS", beIN SPORTS 8 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/119338
+
+#EXTINF:-1 tvg-id="beINSports 8" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" group-title="BEINSPORTS | SPORTS", beIN SPORTS 8 FHD
+http://567487.dynahost.ovh:80/peluco28/21320450/119339
+
+#EXTINF:-1 tvg-id="beINSports 8" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS8.png" group-title="BEINSPORTS | SPORTS", beIN SPORTS 8  HD
+http://567487.dynahost.ovh:80/peluco28/21320450/119354
+
+#EXTINF:-1 tvg-id="beINSports NEWS" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" group-title="BEINSPORTS | SPORTS", beIN SPORTS 9 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/119340
+
+#EXTINF:-1 tvg-id="beINSports 9" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" group-title="BEINSPORTS | SPORTS", beIN SPORTS 9 FHD
+http://567487.dynahost.ovh:80/peluco28/21320450/119341
+
+#EXTINF:-1 tvg-id="beINSports 9" tvg-logo="https://assets.bein.com/mena/sites/4/2023/09/logos-_beINSPORTS9.png" group-title="BEINSPORTS | SPORTS", beIN SPORTS 9 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/119355
+
+#EXTINF:-1 tvg-id="beINSports NEWS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png" group-title="BEINSPORTS | SPORTS", BEINSPORTS EXTRA 1 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/117706
+
+#EXTINF:-1 tvg-id="beINSports NEWS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA1_Digital_Mono.png" group-title="BEINSPORTS | SPORTS", BEINSPORTS EXTRA 1 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/117707
+
+#EXTINF:-1 tvg-id="beINSports NEWS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png" group-title="BEINSPORTS | SPORTS", BEINSPORTS EXTRA 2 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/117708
+
+#EXTINF:-1 tvg-id="beINSports NEWS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA2_Digital_Mono.png" group-title="BEINSPORTS | SPORTS", BEINSPORTS EXTRA 2 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/117709
+
+#EXTINF:-1 tvg-id="logos-_beINSPORTSXTRA3_EN.bein" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA3_Digital_Mono.png" group-title="BEINSPORTS | SPORTS", BEINSPORTS EXTRA 3 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/119972
+
+#EXTINF:-1 tvg-id="logos-_beINSPORTSXTRA3_EN.bein" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS_XTRA3_Digital_Mono.png" group-title="BEINSPORTS | SPORTS", BEINSPORTS EXTRA 3 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/119973
+
+#EXTINF:-1 tvg-id="beINSports NEWS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="BEINSPORTS | SPORTS", BEINSPORTS 1 EN HD
+http://567487.dynahost.ovh:80/peluco28/21320450/117718
+
+#EXTINF:-1 tvg-id="beINSports ENGLISH 1" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="BEINSPORTS | SPORTS", BEINSPORTS 1 EN 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/142147
+
+#EXTINF:-1 tvg-id="beINSports NEWS" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="BEINSPORTS | SPORTS", BEINSPORTS 2 EN HD
+http://567487.dynahost.ovh:80/peluco28/21320450/117720
+
+#EXTINF:-1 tvg-id="beINSports ENGLISH 2" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS2_ENGLISH_Digital_Mono.png" group-title="BEINSPORTS | SPORTS", BEINSPORTS 2 EN 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/142148
+
+#EXTINF:-1 tvg-id="beINSports NEWS" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-bein-sport-png-6.png" group-title="BEINSPORTS | SPORTS", beIN SPORTS ñ HD
+http://567487.dynahost.ovh:80/peluco28/21320450/74212
+
+#EXTINF:-1 tvg-id="beINSports NEWS" tvg-logo="https://i.pinimg.com/originals/a3/19/4a/a3194a63e709bab493938f9e1761327b.png" group-title="BEINSPORTS | SPORTS", beIN SPORTS LA LIGA HD
+http://567487.dynahost.ovh:80/peluco28/21320450/71962
+
+#EXTINF:-1 tvg-id="beINSports NEWS" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/NBA_DIGITAL_Mono.png" group-title="BEINSPORTS | SPORTS", beIN SPORTS NBA HD
+http://567487.dynahost.ovh:80/peluco28/21320450/52120
+
+#EXTINF:-1 tvg-id="BEINSPORTS AFC HD" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-05.png" group-title="BEINSPORTS | SPORTS", BEINSPORTS AFC HD
+http://567487.dynahost.ovh:80/peluco28/21320450/117710
+
+#EXTINF:-1 tvg-id="BEINSPORTS AFC SD" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-05.png" group-title="BEINSPORTS | SPORTS", BEINSPORTS AFC SD
+http://567487.dynahost.ovh:80/peluco28/21320450/117711
+
+#EXTINF:-1 tvg-id="BEINSPORTS AFC 1 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-06.png" group-title="BEINSPORTS | SPORTS", BEINSPORTS AFC 1 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/117712
+
+#EXTINF:-1 tvg-id="BEINSPORTS AFC 1 SD" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-06.png" group-title="BEINSPORTS | SPORTS", BEINSPORTS AFC 1 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/117713
+
+#EXTINF:-1 tvg-id="BEINSPORTS AFC 2 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-07.png" group-title="BEINSPORTS | SPORTS", BEINSPORTS AFC 2 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/117714
+
+#EXTINF:-1 tvg-id="BEINSPORTS AFC 2 SD" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-07.png" group-title="BEINSPORTS | SPORTS", BEINSPORTS AFC 2 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/117715
+
+#EXTINF:-1 tvg-id="BEINSPORTS AFC 3 HD" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-08.png" group-title="BEINSPORTS | SPORTS", BEINSPORTS AFC 3 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/117716
+
+#EXTINF:-1 tvg-id="BEINSPORTS AFC 3 SD" tvg-logo="https://assets.bein.com/mena/sites/4/2022/03/bein.com-08.png" group-title="BEINSPORTS | SPORTS", BEINSPORTS AFC 3 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/117717
+
+#EXTINF:-1 tvg-id="•●★--- ES Movistar+ Cine ----★●•" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", •●★--- ES Movistar+ Cine ----★●•
+http://567487.dynahost.ovh:80/peluco28/21320450/116584
+
+#EXTINF:-1 tvg-id="ES: M. Accion HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M. Accion HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116585
+
+#EXTINF:-1 tvg-id="ES: M. Accion HD (720P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M. Accion HD (720P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116586
+
+#EXTINF:-1 tvg-id="ES: M. Accion SD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M. Accion SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116587
+
+#EXTINF:-1 tvg-id="ES: M. Comedia HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M. Comedia HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116588
+
+#EXTINF:-1 tvg-id="ES: M. Comedia HD (720P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M. Comedia HD (720P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116589
+
+#EXTINF:-1 tvg-id="ES: M. Comedia SD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M. Comedia SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116590
+
+#EXTINF:-1 tvg-id="ES: M. Drama HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M. Drama HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116594
+
+#EXTINF:-1 tvg-id="ES: M. Drama HD (720P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M. Drama HD (720P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116595
+
+#EXTINF:-1 tvg-id="ES: M. Drama SD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M. Drama SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116596
+
+#EXTINF:-1 tvg-id="ES: M. Cine N HD (720P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M. Cine N HD (720P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116597
+
+#EXTINF:-1 tvg-id="ES: TCM HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: TCM HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116598
+
+#EXTINF:-1 tvg-id="ES: TCM HD (720P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: TCM HD (720P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116599
+
+#EXTINF:-1 tvg-id="ES: TCM SD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: TCM SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116600
+
+#EXTINF:-1 tvg-id="ES: Hollywood HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Hollywood HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116601
+
+#EXTINF:-1 tvg-id="ES: Hollywood HD (720P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Hollywood HD (720P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116602
+
+#EXTINF:-1 tvg-id="ES: Sundance TV HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Sundance TV HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116603
+
+#EXTINF:-1 tvg-id="ES: Sundance TV HD (720P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Sundance TV HD (720P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116604
+
+#EXTINF:-1 tvg-id="ES: Sundance TV" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Sundance TV
+http://567487.dynahost.ovh:80/peluco28/21320450/116605
+
+#EXTINF:-1 tvg-id="ES: Dark HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Dark HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116606
+
+#EXTINF:-1 tvg-id="ES: XTRM HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: XTRM HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116607
+
+#EXTINF:-1 tvg-id="•●★--- ES Movistar+ Series ----★●•" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", •●★--- ES Movistar+ Series ----★●•
+http://567487.dynahost.ovh:80/peluco28/21320450/116608
+
+#EXTINF:-1 tvg-id="ES: M. Series HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M. Series HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116609
+
+#EXTINF:-1 tvg-id="ES: M. Series HD (720P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M. Series HD (720P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116610
+
+#EXTINF:-1 tvg-id="ES: M. Series SD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M. Series SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116611
+
+#EXTINF:-1 tvg-id="ES: Calle 13 HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Calle 13 HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116615
+
+#EXTINF:-1 tvg-id="ES: Calle 13" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Calle 13
+http://567487.dynahost.ovh:80/peluco28/21320450/116616
+
+#EXTINF:-1 tvg-id="ES: Cosmo TV HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Cosmo TV HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116617
+
+#EXTINF:-1 tvg-id="ES: Cosmo TV SD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Cosmo TV SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116618
+
+#EXTINF:-1 tvg-id="ES: AMC HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: AMC HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116619
+
+#EXTINF:-1 tvg-id="ES: AMC HD (720P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: AMC HD (720P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116620
+
+#EXTINF:-1 tvg-id="ES: AMC SD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: AMC SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116621
+
+#EXTINF:-1 tvg-id="ES: Fox HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Fox HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116622
+
+#EXTINF:-1 tvg-id="ES: Fox HD (720P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Fox HD (720P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116623
+
+#EXTINF:-1 tvg-id="ES: Fox SD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Fox SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116624
+
+#EXTINF:-1 tvg-id="ES: AXN HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: AXN HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116625
+
+#EXTINF:-1 tvg-id="ES: AXN HD (720P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: AXN HD (720P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116626
+
+#EXTINF:-1 tvg-id="ES: AXN SD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: AXN SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116627
+
+#EXTINF:-1 tvg-id="ES: AXN Movies HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: AXN Movies HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116628
+
+#EXTINF:-1 tvg-id="ES: AXN Movies HD (720P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: AXN Movies HD (720P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116629
+
+#EXTINF:-1 tvg-id="ES: AXN Movies SD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: AXN Movies SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116630
+
+#EXTINF:-1 tvg-id="ES: Warner Channel HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Warner Channel HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116631
+
+#EXTINF:-1 tvg-id="ES: Warner Channel HD (720P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Warner Channel HD (720P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116632
+
+#EXTINF:-1 tvg-id="ES: Warner Channel SD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Warner Channel SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116633
+
+#EXTINF:-1 tvg-id="ES: SyFy HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: SyFy HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116634
+
+#EXTINF:-1 tvg-id="ES: SYFY HD (720P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: SYFY HD (720P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116635
+
+#EXTINF:-1 tvg-id="ES: SyFy SD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: SyFy SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116636
+
+#EXTINF:-1 tvg-id="ES: Comedy Central HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Comedy Central HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116637
+
+#EXTINF:-1 tvg-id="ES: Comedy Central HD (720P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Comedy Central HD (720P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116638
+
+#EXTINF:-1 tvg-id="ES: Comedy Central SD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Comedy Central SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116639
+
+#EXTINF:-1 tvg-id="ES: MTV Espana" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: MTV Espana
+http://567487.dynahost.ovh:80/peluco28/21320450/116640
+
+#EXTINF:-1 tvg-id="•●★--- ES Documentales ----★●•" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", •●★--- ES Documentales ----★●•
+http://567487.dynahost.ovh:80/peluco28/21320450/116641
+
+#EXTINF:-1 tvg-id="ES: National Geoghraphic HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: National Geoghraphic HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116642
+
+#EXTINF:-1 tvg-id="ES: National Geoghraphic HD (720P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: National Geoghraphic HD (720P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116643
+
+#EXTINF:-1 tvg-id="ES: National Geoghraphic SD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: National Geoghraphic SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116644
+
+#EXTINF:-1 tvg-id="ES: Nat Geo Wild HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Nat Geo Wild HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116645
+
+#EXTINF:-1 tvg-id="ES: Nat Geo Wild HD (720P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Nat Geo Wild HD (720P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116646
+
+#EXTINF:-1 tvg-id="ES: Nat Geo Wild SD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Nat Geo Wild SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116647
+
+#EXTINF:-1 tvg-id="ES: Pequeradio TV" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Pequeradio TV
+http://567487.dynahost.ovh:80/peluco28/21320450/116648
+
+#EXTINF:-1 tvg-id="ES: Discovery Channel SD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Discovery Channel SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116649
+
+#EXTINF:-1 tvg-id="ES: Odisea SD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Odisea SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116650
+
+#EXTINF:-1 tvg-id="ES: Historia SD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Historia SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116651
+
+#EXTINF:-1 tvg-id="•●★--- ES Estilo de Vida ----★●•" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", •●★--- ES Estilo de Vida ----★●•
+http://567487.dynahost.ovh:80/peluco28/21320450/116652
+
+#EXTINF:-1 tvg-id="ES: AMC Break HD (720P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: AMC Break HD (720P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116653
+
+#EXTINF:-1 tvg-id="ES: AMC Crime" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: AMC Crime
+http://567487.dynahost.ovh:80/peluco28/21320450/116654
+
+#EXTINF:-1 tvg-id="ES: Canal Cocina" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Canal Cocina
+http://567487.dynahost.ovh:80/peluco28/21320450/116655
+
+#EXTINF:-1 tvg-id="ES: Decasa" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Decasa
+http://567487.dynahost.ovh:80/peluco28/21320450/116656
+
+#EXTINF:-1 tvg-id="ES: Dkiss" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Dkiss
+http://567487.dynahost.ovh:80/peluco28/21320450/116657
+
+#EXTINF:-1 tvg-id="•●★--- ES Infantil ----★●•" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", •●★--- ES Infantil ----★●•
+http://567487.dynahost.ovh:80/peluco28/21320450/116658
+
+#EXTINF:-1 tvg-id="ES: Nickelodeon HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Nickelodeon HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116659
+
+#EXTINF:-1 tvg-id="ES: Nick JR" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Nick JR
+http://567487.dynahost.ovh:80/peluco28/21320450/116660
+
+#EXTINF:-1 tvg-id="ES: Disney Junior HD (720P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Disney Junior HD (720P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116661
+
+#EXTINF:-1 tvg-id="ES: Disney Channel HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Disney Channel HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116662
+
+#EXTINF:-1 tvg-id="ES: Disney Channel HD (720P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Disney Channel HD (720P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116663
+
+#EXTINF:-1 tvg-id="ES: Disney Channel SD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Disney Channel SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116664
+
+#EXTINF:-1 tvg-id="ES: Enfamilia HD (720P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Enfamilia HD (720P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116665
+
+#EXTINF:-1 tvg-id="ES: Baby TV" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Baby TV
+http://567487.dynahost.ovh:80/peluco28/21320450/116666
+
+#EXTINF:-1 tvg-id="ES: Super3" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Super3
+http://567487.dynahost.ovh:80/peluco28/21320450/116667
+
+#EXTINF:-1 tvg-id="•●★--- ES TDT ----★●•" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", •●★--- ES TDT ----★●•
+http://567487.dynahost.ovh:80/peluco28/21320450/116668
+
+#EXTINF:-1 tvg-id="ES: LA 1  HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: LA 1  HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116669
+
+#EXTINF:-1 tvg-id="ES: LA 1 HD (720P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: LA 1 HD (720P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116670
+
+#EXTINF:-1 tvg-id="ES: LA 1 SD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: LA 1 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116671
+
+#EXTINF:-1 tvg-id="ES: LA 2 HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: LA 2 HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116672
+
+#EXTINF:-1 tvg-id="ES: LA 2" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: LA 2
+http://567487.dynahost.ovh:80/peluco28/21320450/116673
+
+#EXTINF:-1 tvg-id="ES: Antena 3 HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Antena 3 HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116674
+
+#EXTINF:-1 tvg-id="ES: Antena 3 HD (720P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Antena 3 HD (720P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116675
+
+#EXTINF:-1 tvg-id="ES: Antena 3 SD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Antena 3 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116676
+
+#EXTINF:-1 tvg-id="ES: Cuatro HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Cuatro HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116677
+
+#EXTINF:-1 tvg-id="ES: Cuatro HD (720P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Cuatro HD (720P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116678
+
+#EXTINF:-1 tvg-id="ES: Cuatro SD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Cuatro SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116679
+
+#EXTINF:-1 tvg-id="ES: Telecinco HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Telecinco HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116680
+
+#EXTINF:-1 tvg-id="ES: Telecinco HD (720P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Telecinco HD (720P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116681
+
+#EXTINF:-1 tvg-id="ES: Telecinco SD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Telecinco SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116682
+
+#EXTINF:-1 tvg-id="ES: La Sexta HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: La Sexta HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116683
+
+#EXTINF:-1 tvg-id="ES: La Sexta HD (720P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: La Sexta HD (720P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116684
+
+#EXTINF:-1 tvg-id="ES: La Sexta SD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: La Sexta SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116685
+
+#EXTINF:-1 tvg-id="ES: Mega HD (720P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Mega HD (720P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116686
+
+#EXTINF:-1 tvg-id="ES: Mega SD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Mega SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116687
+
+#EXTINF:-1 tvg-id="ES: Nova HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Nova HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116688
+
+#EXTINF:-1 tvg-id="ES: Nova (720P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Nova (720P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116689
+
+#EXTINF:-1 tvg-id="ES: Nova" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Nova
+http://567487.dynahost.ovh:80/peluco28/21320450/116690
+
+#EXTINF:-1 tvg-id="ES: Neox" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Neox
+http://567487.dynahost.ovh:80/peluco28/21320450/116691
+
+#EXTINF:-1 tvg-id="ES: 8TV.cat HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: 8TV.cat HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116692
+
+#EXTINF:-1 tvg-id="ES: Divinity" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Divinity
+http://567487.dynahost.ovh:80/peluco28/21320450/116693
+
+#EXTINF:-1 tvg-id="ES: Clan" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Clan
+http://567487.dynahost.ovh:80/peluco28/21320450/116694
+
+#EXTINF:-1 tvg-id="ES: BeMad TV HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: BeMad TV HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116695
+
+#EXTINF:-1 tvg-id="ES: BeMad TV HD (720P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: BeMad TV HD (720P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116696
+
+#EXTINF:-1 tvg-id="ES: Canal Sur 2 HD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Canal Sur 2 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116697
+
+#EXTINF:-1 tvg-id="ES: Teledeporte HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Teledeporte HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116698
+
+#EXTINF:-1 tvg-id="ES: Teledeporte HD (720P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Teledeporte HD (720P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116699
+
+#EXTINF:-1 tvg-id="ES: Teledeporte SD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Teledeporte SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116700
+
+#EXTINF:-1 tvg-id="ES: Paramount Channel" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Paramount Channel
+http://567487.dynahost.ovh:80/peluco28/21320450/116701
+
+#EXTINF:-1 tvg-id="ES: Boing SD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Boing SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116702
+
+#EXTINF:-1 tvg-id="ES: A3series HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: A3series HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116703
+
+#EXTINF:-1 tvg-id="ES: A3series HD (720P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: A3series HD (720P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116704
+
+#EXTINF:-1 tvg-id="ES: A3series SD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: A3series SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116705
+
+#EXTINF:-1 tvg-id="ES: Antena 3 Internacional" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Antena 3 Internacional
+http://567487.dynahost.ovh:80/peluco28/21320450/116706
+
+#EXTINF:-1 tvg-id="ES: FDF SD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: FDF SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116707
+
+#EXTINF:-1 tvg-id="ES: Somos HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Somos HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116708
+
+#EXTINF:-1 tvg-id="ES: TEN" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: TEN
+http://567487.dynahost.ovh:80/peluco28/21320450/116709
+
+#EXTINF:-1 tvg-id="ES: Televisa HD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Televisa HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116710
+
+#EXTINF:-1 tvg-id="ES: El Toro TV" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: El Toro TV
+http://567487.dynahost.ovh:80/peluco28/21320450/116711
+
+#EXTINF:-1 tvg-id="ES: Dmax HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Dmax HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116712
+
+#EXTINF:-1 tvg-id="ES: 24h HD (720P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: 24h HD (720P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116713
+
+#EXTINF:-1 tvg-id="ES: Telesur HD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Telesur HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116714
+
+#EXTINF:-1 tvg-id="ES: Trece" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Trece
+http://567487.dynahost.ovh:80/peluco28/21320450/116715
+
+#EXTINF:-1 tvg-id="ES: 7 TV Murcia HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: 7 TV Murcia HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116716
+
+#EXTINF:-1 tvg-id="ES: 7 TV Murcia" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: 7 TV Murcia
+http://567487.dynahost.ovh:80/peluco28/21320450/116717
+
+#EXTINF:-1 tvg-id="ES: Canal Parlamento" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Canal Parlamento
+http://567487.dynahost.ovh:80/peluco28/21320450/116718
+
+#EXTINF:-1 tvg-id="ES: Dmax HD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Dmax HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116719
+
+#EXTINF:-1 tvg-id="ES: À Punt HD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: À Punt HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116720
+
+#EXTINF:-1 tvg-id="ES: Dark SD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Dark SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116721
+
+#EXTINF:-1 tvg-id="ES: Canal Málaga" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Canal Málaga
+http://567487.dynahost.ovh:80/peluco28/21320450/116722
+
+#EXTINF:-1 tvg-id="ES: PTV Málaga" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: PTV Málaga
+http://567487.dynahost.ovh:80/peluco28/21320450/116723
+
+#EXTINF:-1 tvg-id="ES: TV Benavente HD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: TV Benavente HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116724
+
+#EXTINF:-1 tvg-id="ES: InterAlmería HD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: InterAlmería HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116725
+
+#EXTINF:-1 tvg-id="ES: Alcarria TV" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Alcarria TV
+http://567487.dynahost.ovh:80/peluco28/21320450/116726
+
+#EXTINF:-1 tvg-id="ES: Bon Dia TV" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Bon Dia TV
+http://567487.dynahost.ovh:80/peluco28/21320450/116727
+
+#EXTINF:-1 tvg-id="ES: Imás TV HD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Imás TV HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116728
+
+#EXTINF:-1 tvg-id="ES: Teleonuba TV" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Teleonuba TV
+http://567487.dynahost.ovh:80/peluco28/21320450/116729
+
+#EXTINF:-1 tvg-id="ES: Visión 6" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Visión 6
+http://567487.dynahost.ovh:80/peluco28/21320450/116730
+
+#EXTINF:-1 tvg-id="ES: La 7 León" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: La 7 León
+http://567487.dynahost.ovh:80/peluco28/21320450/116731
+
+#EXTINF:-1 tvg-id="•●★--- ES Autonómicas ----★●•" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", •●★--- ES Autonómicas ----★●•
+http://567487.dynahost.ovh:80/peluco28/21320450/116732
+
+#EXTINF:-1 tvg-id="ES: TV3 HD (720P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: TV3 HD (720P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116733
+
+#EXTINF:-1 tvg-id="ES: TV3. CAT" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: TV3. CAT
+http://567487.dynahost.ovh:80/peluco28/21320450/116734
+
+#EXTINF:-1 tvg-id="ES: TV3. CAT HD (720P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: TV3. CAT HD (720P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116735
+
+#EXTINF:-1 tvg-id="ES: Betevé CAT" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Betevé CAT
+http://567487.dynahost.ovh:80/peluco28/21320450/116736
+
+#EXTINF:-1 tvg-id="ES: 3/24 CAT FHD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: 3/24 CAT FHD
+http://567487.dynahost.ovh:80/peluco28/21320450/116737
+
+#EXTINF:-1 tvg-id="ES: Dark HD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Dark HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116738
+
+#EXTINF:-1 tvg-id="ES: 33 CAT" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: 33 CAT
+http://567487.dynahost.ovh:80/peluco28/21320450/116739
+
+#EXTINF:-1 tvg-id="ES: Canal Sur HD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Canal Sur HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116740
+
+#EXTINF:-1 tvg-id="ES: Canal Sur Andalucía HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Canal Sur Andalucía HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116741
+
+#EXTINF:-1 tvg-id="ES: Nickelodeon SD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Nickelodeon SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116742
+
+#EXTINF:-1 tvg-id="ES: Molahits TV" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Molahits TV
+http://567487.dynahost.ovh:80/peluco28/21320450/116743
+
+#EXTINF:-1 tvg-id="ES: TeleMadrid HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: TeleMadrid HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116744
+
+#EXTINF:-1 tvg-id="ES: TeleMadrid" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: TeleMadrid
+http://567487.dynahost.ovh:80/peluco28/21320450/116745
+
+#EXTINF:-1 tvg-id="ES: DW en Español" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: DW en Español
+http://567487.dynahost.ovh:80/peluco28/21320450/116746
+
+#EXTINF:-1 tvg-id="ES: Hispan TV" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Hispan TV
+http://567487.dynahost.ovh:80/peluco28/21320450/116747
+
+#EXTINF:-1 tvg-id="ES: ETB 1 HD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: ETB 1 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116748
+
+#EXTINF:-1 tvg-id="ES: ETB 2 HD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: ETB 2 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116749
+
+#EXTINF:-1 tvg-id="ES: ETB Basque" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: ETB Basque
+http://567487.dynahost.ovh:80/peluco28/21320450/116750
+
+#EXTINF:-1 tvg-id="ES: Sevilla FC" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Sevilla FC
+http://567487.dynahost.ovh:80/peluco28/21320450/116751
+
+#EXTINF:-1 tvg-id="ES: Galicia TV" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Galicia TV
+http://567487.dynahost.ovh:80/peluco28/21320450/116752
+
+#EXTINF:-1 tvg-id="ES: Extremadura TV" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Extremadura TV
+http://567487.dynahost.ovh:80/peluco28/21320450/116753
+
+#EXTINF:-1 tvg-id="ES: Aragon TV" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Aragon TV
+http://567487.dynahost.ovh:80/peluco28/21320450/116754
+
+#EXTINF:-1 tvg-id="ES: CMM" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: CMM
+http://567487.dynahost.ovh:80/peluco28/21320450/116755
+
+#EXTINF:-1 tvg-id="ES: La Otra" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: La Otra
+http://567487.dynahost.ovh:80/peluco28/21320450/116756
+
+#EXTINF:-1 tvg-id="•●★--- ES Música ----★●•" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", •●★--- ES Música ----★●•
+http://567487.dynahost.ovh:80/peluco28/21320450/116757
+
+#EXTINF:-1 tvg-id="ES: VH1 Classic" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: VH1 Classic
+http://567487.dynahost.ovh:80/peluco28/21320450/116758
+
+#EXTINF:-1 tvg-id="ES: Cadena Elite" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Cadena Elite
+http://567487.dynahost.ovh:80/peluco28/21320450/116759
+
+#EXTINF:-1 tvg-id="ES: Mezzo Live HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Mezzo Live HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116760
+
+#EXTINF:-1 tvg-id="ES: Mezzo" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Mezzo
+http://567487.dynahost.ovh:80/peluco28/21320450/116761
+
+#EXTINF:-1 tvg-id="•●★--- ES Canales a la carta ----★●•" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", •●★--- ES Canales a la carta ----★●•
+http://567487.dynahost.ovh:80/peluco28/21320450/116762
+
+#EXTINF:-1 tvg-id="ES: Barca TV" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Barca TV
+http://567487.dynahost.ovh:80/peluco28/21320450/116763
+
+#EXTINF:-1 tvg-id="ES: Caza y Pesca HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Caza y Pesca HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116764
+
+#EXTINF:-1 tvg-id="ES: Caza y Pesca HD (720P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Caza y Pesca HD (720P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116765
+
+#EXTINF:-1 tvg-id="ES: Iberalia HD (720P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Iberalia HD (720P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116766
+
+#EXTINF:-1 tvg-id="ES: Movistar Alquiler 1" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Movistar Alquiler 1
+http://567487.dynahost.ovh:80/peluco28/21320450/116767
+
+#EXTINF:-1 tvg-id="ES: Movistar Alquiler 2" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Movistar Alquiler 2
+http://567487.dynahost.ovh:80/peluco28/21320450/116768
+
+#EXTINF:-1 tvg-id="ES: Movistar Alquiler 3" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Movistar Alquiler 3
+http://567487.dynahost.ovh:80/peluco28/21320450/116769
+
+#EXTINF:-1 tvg-id="ES: Movistar Alquiler 4" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Movistar Alquiler 4
+http://567487.dynahost.ovh:80/peluco28/21320450/116770
+
+#EXTINF:-1 tvg-id="ES: Movistar Alquiler 5" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Movistar Alquiler 5
+http://567487.dynahost.ovh:80/peluco28/21320450/116771
+
+#EXTINF:-1 tvg-id="ES: Movistar Alquiler 6" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Movistar Alquiler 6
+http://567487.dynahost.ovh:80/peluco28/21320450/116772
+
+#EXTINF:-1 tvg-id="ES: Movistar Alquiler 7" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Movistar Alquiler 7
+http://567487.dynahost.ovh:80/peluco28/21320450/116773
+
+#EXTINF:-1 tvg-id="ES: Movistar Alquiler 8" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Movistar Alquiler 8
+http://567487.dynahost.ovh:80/peluco28/21320450/116774
+
+#EXTINF:-1 tvg-id="ES: Movistar Alquiler 9" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Movistar Alquiler 9
+http://567487.dynahost.ovh:80/peluco28/21320450/116775
+
+#EXTINF:-1 tvg-id="ES: Movistar Alquiler 10" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Movistar Alquiler 10
+http://567487.dynahost.ovh:80/peluco28/21320450/116776
+
+#EXTINF:-1 tvg-id="ES: Movistar Alquiler 11" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Movistar Alquiler 11
+http://567487.dynahost.ovh:80/peluco28/21320450/116777
+
+#EXTINF:-1 tvg-id="ES: Movistar Alquiler 12" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Movistar Alquiler 12
+http://567487.dynahost.ovh:80/peluco28/21320450/116778
+
+#EXTINF:-1 tvg-id="ES: Gol" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Gol
+http://567487.dynahost.ovh:80/peluco28/21320450/116779
+
+#EXTINF:-1 tvg-id="ES: M. LaLiga SD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M. LaLiga SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116780
+
+#EXTINF:-1 tvg-id="ES: M. Deportes 4 (Solo Eventos)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M. Deportes 4 (Solo Eventos)
+http://567487.dynahost.ovh:80/peluco28/21320450/116781
+
+#EXTINF:-1 tvg-id="ES: M. LaLiga HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M. LaLiga HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116782
+
+#EXTINF:-1 tvg-id="•●★--- ES Movistar+ Deportes ----★●•" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", •●★--- ES Movistar+ Deportes ----★●•
+http://567487.dynahost.ovh:80/peluco28/21320450/116564
+
+#EXTINF:-1 tvg-id="ES: M Liga de Campeones HD (720P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M Liga de Campeones HD (720P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116547
+
+#EXTINF:-1 tvg-id="ES: M Liga de Campeones SD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M Liga de Campeones SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116548
+
+#EXTINF:-1 tvg-id="ES: M Liga de Campeones 2 FHD (Solo Eventos)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M Liga de Campeones 2 FHD (Solo Eventos)
+http://567487.dynahost.ovh:80/peluco28/21320450/116549
+
+#EXTINF:-1 tvg-id="ES: M Liga de Campeones 2 SD (Solo Eventos)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M Liga de Campeones 2 SD (Solo Eventos)
+http://567487.dynahost.ovh:80/peluco28/21320450/116550
+
+#EXTINF:-1 tvg-id="ES: M Liga de Campeones 3 HD (Solo Eventos)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M Liga de Campeones 3 HD (Solo Eventos)
+http://567487.dynahost.ovh:80/peluco28/21320450/116551
+
+#EXTINF:-1 tvg-id="ES: M Liga de Campeones 4 HD (Solo Eventos)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M Liga de Campeones 4 HD (Solo Eventos)
+http://567487.dynahost.ovh:80/peluco28/21320450/116552
+
+#EXTINF:-1 tvg-id="ES: M Liga de Campeones 6 HD (Solo Eventos)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M Liga de Campeones 6 HD (Solo Eventos)
+http://567487.dynahost.ovh:80/peluco28/21320450/116553
+
+#EXTINF:-1 tvg-id="ES: M Liga de Campeones 7 (Solo Eventos)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M Liga de Campeones 7 (Solo Eventos)
+http://567487.dynahost.ovh:80/peluco28/21320450/116554
+
+#EXTINF:-1 tvg-id="ES: M Liga de Campeones 8 HD (Solo Eventos)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M Liga de Campeones 8 HD (Solo Eventos)
+http://567487.dynahost.ovh:80/peluco28/21320450/116555
+
+#EXTINF:-1 tvg-id="ES: M. LaLiga 2 FHD (Solo Eventos)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M. LaLiga 2 FHD (Solo Eventos)
+http://567487.dynahost.ovh:80/peluco28/21320450/116556
+
+#EXTINF:-1 tvg-id="ES: M. LaLiga 2 (Solo Eventos)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M. LaLiga 2 (Solo Eventos)
+http://567487.dynahost.ovh:80/peluco28/21320450/116557
+
+#EXTINF:-1 tvg-id="ES: M. LaLiga 3 FHD (Solo Eventos)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M. LaLiga 3 FHD (Solo Eventos)
+http://567487.dynahost.ovh:80/peluco28/21320450/116558
+
+#EXTINF:-1 tvg-id="ES: M. LaLiga 4 FHD (Solo Eventos)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M. LaLiga 4 FHD (Solo Eventos)
+http://567487.dynahost.ovh:80/peluco28/21320450/116559
+
+#EXTINF:-1 tvg-id="ES: M. LaLiga 5 FHD (Solo Eventos)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M. LaLiga 5 FHD (Solo Eventos)
+http://567487.dynahost.ovh:80/peluco28/21320450/116560
+
+#EXTINF:-1 tvg-id="ES: M. LaLiga 6 (Solo Eventos)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M. LaLiga 6 (Solo Eventos)
+http://567487.dynahost.ovh:80/peluco28/21320450/116561
+
+#EXTINF:-1 tvg-id="ES: Real Madrid SD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Real Madrid SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116562
+
+#EXTINF:-1 tvg-id="ES: Esport 3 CAT" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Esport 3 CAT
+http://567487.dynahost.ovh:80/peluco28/21320450/116563
+
+#EXTINF:-1 tvg-id="ES: M. Dazn F1 HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M. Dazn F1 HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116565
+
+#EXTINF:-1 tvg-id="ES: M. Dazn F1 HD (720P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M. Dazn F1 HD (720P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116566
+
+#EXTINF:-1 tvg-id="ES: M. Dazn F1 SD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M. Dazn F1 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116567
+
+#EXTINF:-1 tvg-id="ES: M. Golf HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M. Golf HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116568
+
+#EXTINF:-1 tvg-id="ES: M. Golf SD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M. Golf SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116569
+
+#EXTINF:-1 tvg-id="ES: M. Deportes FHD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M. Deportes FHD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116570
+
+#EXTINF:-1 tvg-id="ES: M. Deportes HD (720P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M. Deportes HD (720P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116571
+
+#EXTINF:-1 tvg-id="ES: M. Deportes SD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M. Deportes SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116572
+
+#EXTINF:-1 tvg-id="ES: #Vamos HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: #Vamos HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116573
+
+#EXTINF:-1 tvg-id="ES: #Vamos HD (720P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: #Vamos HD (720P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116574
+
+#EXTINF:-1 tvg-id="ES: #Vamos SD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: #Vamos SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116575
+
+#EXTINF:-1 tvg-id="ES: M. Deportes 2 (Solo Eventos)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M. Deportes 2 (Solo Eventos)
+http://567487.dynahost.ovh:80/peluco28/21320450/116576
+
+#EXTINF:-1 tvg-id="ES: M. Deportes 3 HD (Solo Eventos)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M. Deportes 3 HD (Solo Eventos)
+http://567487.dynahost.ovh:80/peluco28/21320450/116577
+
+#EXTINF:-1 tvg-id="ES: M. Deportes 3 (Solo Eventos)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M. Deportes 3 (Solo Eventos)
+http://567487.dynahost.ovh:80/peluco28/21320450/116578
+
+#EXTINF:-1 tvg-id="ES: M. Deportes 4 HD (Solo Eventos)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M. Deportes 4 HD (Solo Eventos)
+http://567487.dynahost.ovh:80/peluco28/21320450/116579
+
+#EXTINF:-1 tvg-id="ES: M. Deportes 5 HD (Solo Eventos)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M. Deportes 5 HD (Solo Eventos)
+http://567487.dynahost.ovh:80/peluco28/21320450/116580
+
+#EXTINF:-1 tvg-id="ES: Eurosport 1 HD (1080P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Eurosport 1 HD (1080P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116581
+
+#EXTINF:-1 tvg-id="ES: Eurosport 1 HD (720P)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Eurosport 1 HD (720P)
+http://567487.dynahost.ovh:80/peluco28/21320450/116582
+
+#EXTINF:-1 tvg-id="ES: Eurosport 1 SD" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: Eurosport 1 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116583
+
+#EXTINF:-1 tvg-id="ES: M. LaLiga FHD (Fibra)" tvg-logo="noimage.png" group-title="ESPAÑA | RESERVA", ES: M. LaLiga FHD (Fibra)
+http://567487.dynahost.ovh:80/peluco28/21320450/116783
+
+#EXTINF:-1 tvg-id="MULTIPANTALLA" tvg-logo="noimage.png" group-title="ESPAÑA | DEPORTES 4K-HD", MULTIPANTALLA
+http://567487.dynahost.ovh:80/peluco28/21320450/143130
+
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" group-title="ESPAÑA | DEPORTES 4K-HD", M+ Deportes 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/116104
+
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" group-title="ESPAÑA | DEPORTES 4K-HD", M+ Deportes HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116105
+
+#EXTINF:-1 tvg-id="M+ Deportes HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes.png" group-title="ESPAÑA | DEPORTES 4K-HD", M+ Deportes SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116106
+
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" group-title="ESPAÑA | DEPORTES 4K-HD", M+ Deportes 2 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/116107
+
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" group-title="ESPAÑA | DEPORTES 4K-HD", M+ Deportes 2 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116108
+
+#EXTINF:-1 tvg-id="M+ Deportes 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%202.png" group-title="ESPAÑA | DEPORTES 4K-HD", M+ Deportes 2 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116109
+
+#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png" group-title="ESPAÑA | DEPORTES 4K-HD", M+ Deportes 3 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/116110
+
+#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png" group-title="ESPAÑA | DEPORTES 4K-HD", M+ Deportes 3 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116111
+
+#EXTINF:-1 tvg-id="M+ Deportes 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%203.png" group-title="ESPAÑA | DEPORTES 4K-HD", M+ Deportes 3 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116112
+
+#EXTINF:-1 tvg-id="M+ Deportes 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%204.png" group-title="ESPAÑA | DEPORTES 4K-HD", M+ Deportes 4 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/116113
+
+#EXTINF:-1 tvg-id="M+ Deportes 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%204.png" group-title="ESPAÑA | DEPORTES 4K-HD", M+ Deportes 4 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116114
+
+#EXTINF:-1 tvg-id="M+ Deportes 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%204.png" group-title="ESPAÑA | DEPORTES 4K-HD", M+ Deportes 4 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116115
+
+#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%205.png" group-title="ESPAÑA | DEPORTES 4K-HD", M+ Deportes 5 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/116116
+
+#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%205.png" group-title="ESPAÑA | DEPORTES 4K-HD", M+ Deportes 5 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116117
+
+#EXTINF:-1 tvg-id="M+ Deportes 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%205.png" group-title="ESPAÑA | DEPORTES 4K-HD", M+ Deportes 5 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116118
+
+#EXTINF:-1 tvg-id="M+ Deportes 6" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%206.png" group-title="ESPAÑA | DEPORTES 4K-HD", M+ Deportes 6 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/116119
+
+#EXTINF:-1 tvg-id="M+ Deportes 6" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%206.png" group-title="ESPAÑA | DEPORTES 4K-HD", M+ Deportes 6 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116120
+
+#EXTINF:-1 tvg-id="M+ Deportes 6" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Deportes%206.png" group-title="ESPAÑA | DEPORTES 4K-HD", M+ Deportes 6 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116121
+
+#EXTINF:-1 tvg-id="M+ Golf HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf.png" group-title="ESPAÑA | DEPORTES 4K-HD", M+ Golf 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/116122
+
+#EXTINF:-1 tvg-id="M+ Golf HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf.png" group-title="ESPAÑA | DEPORTES 4K-HD", M+ Golf HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116123
+
+#EXTINF:-1 tvg-id="M+ Golf HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf.png" group-title="ESPAÑA | DEPORTES 4K-HD", M+ Golf SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116124
+
+#EXTINF:-1 tvg-id="M+ Golf 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202.png" group-title="ESPAÑA | DEPORTES 4K-HD", M+ Golf 2 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/116125
+
+#EXTINF:-1 tvg-id="M+ Golf 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202.png" group-title="ESPAÑA | DEPORTES 4K-HD", M+ Golf 2 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116126
+
+#EXTINF:-1 tvg-id="M+ Golf 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Golf%202.png" group-title="ESPAÑA | DEPORTES 4K-HD", M+ Golf 2 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116127
+
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" group-title="ESPAÑA | DEPORTES 4K-HD", Vamos por M+ 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/116137
+
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" group-title="ESPAÑA | DEPORTES 4K-HD", Vamos por M+ HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116138
+
+#EXTINF:-1 tvg-id="M+ Vamos HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Vamos.png" group-title="ESPAÑA | DEPORTES 4K-HD", Vamos por M+ SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116139
+
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" group-title="ESPAÑA | DEPORTES 4K-HD", Eurosport 1 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/116155
+
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" group-title="ESPAÑA | DEPORTES 4K-HD", Eurosport 1 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116156
+
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" group-title="ESPAÑA | DEPORTES 4K-HD", Eurosport 1 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116157
+
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" group-title="ESPAÑA | DEPORTES 4K-HD", Eurosport 2 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/116158
+
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" group-title="ESPAÑA | DEPORTES 4K-HD", Eurosport 2 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116159
+
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" group-title="ESPAÑA | DEPORTES 4K-HD", Eurosport 2 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116160
+
+#EXTINF:-1 tvg-id="GOL PLAY" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GOL%20PLAY.png" group-title="ESPAÑA | DEPORTES 4K-HD", GOL PLAY 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/116161
+
+#EXTINF:-1 tvg-id="GOL PLAY" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GOL%20PLAY.png" group-title="ESPAÑA | DEPORTES 4K-HD", GOL PLAY HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116162
+
+#EXTINF:-1 tvg-id="GOL PLAY" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/GOL%20PLAY.png" group-title="ESPAÑA | DEPORTES 4K-HD", GOL PLAY SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116163
+
+#EXTINF:-1 tvg-id="Teledeporte" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" group-title="ESPAÑA | DEPORTES 4K-HD", Teledeporte 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/116164
+
+#EXTINF:-1 tvg-id="Teledeporte" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" group-title="ESPAÑA | DEPORTES 4K-HD", Teledeporte HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116165
+
+#EXTINF:-1 tvg-id="Teledeporte" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Teledeporte.png" group-title="ESPAÑA | DEPORTES 4K-HD", Teledeporte SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116166
+
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Real%20Madrid%20TV.png" group-title="ESPAÑA | DEPORTES 4K-HD", REAL MADRID TV 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/116167
+
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Real%20Madrid%20TV.png" group-title="ESPAÑA | DEPORTES 4K-HD", REAL MADRID TV HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116168
+
+#EXTINF:-1 tvg-id="Real Madrid TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Real%20Madrid%20TV.png" group-title="ESPAÑA | DEPORTES 4K-HD", REAL MADRID TV SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116169
+
+#EXTINF:-1 tvg-id="Tennis Channel" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sky%20Sport%20Tennis.png" group-title="ESPAÑA | DEPORTES 4K-HD", TENNIS CHANNEL
+http://567487.dynahost.ovh:80/peluco28/21320450/168874
+
+#EXTINF:-1 tvg-id="Esport3 Catalunya" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Esport%203.png" group-title="ESPAÑA | DEPORTES 4K-HD", ESPORT3 CAT HD
+http://567487.dynahost.ovh:80/peluco28/21320450/107236
+
+#EXTINF:-1 tvg-id="[[[[[[ FUTBOL INGLES - LATINO ]]]]]]" tvg-logo="https://doesyoursportcareaboutwomen.com/home/wp-content/uploads/2017/04/EPL-Logo.png" group-title="ESPAÑA | DEPORTES 4K-HD", [[[[[[ FUTBOL INGLES - LATINO ]]]]]]
+http://567487.dynahost.ovh:80/peluco28/21320450/71892
+
+#EXTINF:-1 tvg-id="beINSports NEWS" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/logo-bein-sport-png-6.png" group-title="ESPAÑA | DEPORTES 4K-HD", BEIN SPORTS ñ FHD
+http://567487.dynahost.ovh:80/peluco28/21320450/71960
+
+#EXTINF:-1 tvg-id="ESPN 1 FHD COL" tvg-logo="http://deportesinc.com/depsite/wp-content/uploads/2016/08/ESPN_logo_wordmark.png" group-title="ESPAÑA | DEPORTES 4K-HD", ESPN 1 FHD COL
+http://567487.dynahost.ovh:80/peluco28/21320450/71928
+
+#EXTINF:-1 tvg-id="ESPN 2 FHD COL" tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" group-title="ESPAÑA | DEPORTES 4K-HD", ESPN 2 FHD COL
+http://567487.dynahost.ovh:80/peluco28/21320450/71929
+
+#EXTINF:-1 tvg-id="ESPN 3 FHD COL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="ESPAÑA | DEPORTES 4K-HD", ESPN 3 FHD COL
+http://567487.dynahost.ovh:80/peluco28/21320450/71930
+
+#EXTINF:-1 tvg-id="ESPN XTRA HD COL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/ESPN_Xtra_logo.svg/1280px-ESPN_Xtra_logo.svg.png" group-title="ESPAÑA | DEPORTES 4K-HD", ESPN XTRA HD COL
+http://567487.dynahost.ovh:80/peluco28/21320450/71931
+
+#EXTINF:-1 tvg-id="UFC HD" tvg-logo="https://pngimg.com/uploads/ufc/ufc_PNG69.png" group-title="ESPAÑA | DEPORTES 4K-HD", UFC HD
+http://567487.dynahost.ovh:80/peluco28/21320450/71463
+
+#EXTINF:-1 tvg-id="TRACE Sports Stars" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TRACE%20Sports%20Stars.png" group-title="ESPAÑA | DEPORTES 4K-HD", TRACE SPORT + STARS
+http://567487.dynahost.ovh:80/peluco28/21320450/114118
+
+#EXTINF:-1 tvg-id="Betis TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Betis%20TV.png" group-title="ESPAÑA | DEPORTES 4K-HD", Betis FC FHD
+http://567487.dynahost.ovh:80/peluco28/21320450/116257
+
+#EXTINF:-1 tvg-id="Sevilla FC Televisión" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Sevilla%20FC%20Televisi%C3%B3n.png" group-title="ESPAÑA | DEPORTES 4K-HD", Sevilla FC FHD
+http://567487.dynahost.ovh:80/peluco28/21320450/116258
+
+#EXTINF:-1 tvg-id="DE | Rally TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Rally%20TV.png" group-title="DAZN | DEPORTES 4K-HD", DAZN RALLY TV HD
+http://567487.dynahost.ovh:80/peluco28/21320450/210916
+
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="DAZN | DEPORTES 4K-HD", DAZN LA LIGA FHD
+http://567487.dynahost.ovh:80/peluco28/21320450/116340
+
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="DAZN | DEPORTES 4K-HD", DAZN LA LIGA HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116341
+
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="DAZN | DEPORTES 4K-HD", DAZN LA LIGA SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116342
+
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png" group-title="DAZN | DEPORTES 4K-HD", DAZN LALIGA 2 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/110732
+
+#EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga%202.png" group-title="DAZN | DEPORTES 4K-HD", DAZN LALIGA 2 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/210411
+
+#EXTINF:-1 tvg-id="Dazn La Liga 3 HD" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", Dazn La Liga 3 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/117161
+
+#EXTINF:-1 tvg-id="Dazn La Liga 4 HD" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", Dazn La Liga 4 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/117162
+
+#EXTINF:-1 tvg-id="Dazn La Liga 5 HD" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", Dazn La Liga 5 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/117163
+
+#EXTINF:-1 tvg-id="DAZN CANAL + LIGUE 1" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", DAZN CANAL + LIGUE 1
+http://567487.dynahost.ovh:80/peluco28/21320450/121036
+
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="DAZN | DEPORTES 4K-HD", DAZN 1 FHD D
+http://567487.dynahost.ovh:80/peluco28/21320450/116343
+
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="DAZN | DEPORTES 4K-HD", DAZN 1 HD D
+http://567487.dynahost.ovh:80/peluco28/21320450/116344
+
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="DAZN | DEPORTES 4K-HD", DAZN 1 SD D
+http://567487.dynahost.ovh:80/peluco28/21320450/116345
+
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="DAZN | DEPORTES 4K-HD", DAZN 1 HD AM
+http://567487.dynahost.ovh:80/peluco28/21320450/137128
+
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="DAZN | DEPORTES 4K-HD", DAZN 1 SD AM
+http://567487.dynahost.ovh:80/peluco28/21320450/137129
+
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" group-title="DAZN | DEPORTES 4K-HD", DAZN 2 FHD D
+http://567487.dynahost.ovh:80/peluco28/21320450/116346
+
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" group-title="DAZN | DEPORTES 4K-HD", DAZN 2 HD D
+http://567487.dynahost.ovh:80/peluco28/21320450/116347
+
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" group-title="DAZN | DEPORTES 4K-HD", DAZN 2 SD D
+http://567487.dynahost.ovh:80/peluco28/21320450/116348
+
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" group-title="DAZN | DEPORTES 4K-HD", DAZN 2 HD AM
+http://567487.dynahost.ovh:80/peluco28/21320450/137130
+
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" group-title="DAZN | DEPORTES 4K-HD", DAZN 2 SD AM
+http://567487.dynahost.ovh:80/peluco28/21320450/137131
+
+#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%203.png" group-title="DAZN | DEPORTES 4K-HD", DAZN 3 FHD
+http://567487.dynahost.ovh:80/peluco28/21320450/116149
+
+#EXTINF:-1 tvg-id="DAZN 3 HD" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", DAZN 3 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/155704
+
+#EXTINF:-1 tvg-id="DAZN 3 SD" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", DAZN 3 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/155705
+
+#EXTINF:-1 tvg-id="DAZN 4 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%204.png" group-title="DAZN | DEPORTES 4K-HD", DAZN 4 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/116152
+
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="DAZN | DEPORTES 4K-HD", DAZN F1 FHD D
+http://567487.dynahost.ovh:80/peluco28/21320450/116349
+
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="DAZN | DEPORTES 4K-HD", DAZN F1 HD D
+http://567487.dynahost.ovh:80/peluco28/21320450/116350
+
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="DAZN | DEPORTES 4K-HD", DAZN F1 SD D
+http://567487.dynahost.ovh:80/peluco28/21320450/116351
+
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" group-title="DAZN | DEPORTES 4K-HD", EUROSPORT 1 FHD D
+http://567487.dynahost.ovh:80/peluco28/21320450/116352
+
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" group-title="DAZN | DEPORTES 4K-HD", EUROSPORT 1 HD D
+http://567487.dynahost.ovh:80/peluco28/21320450/116353
+
+#EXTINF:-1 tvg-id="Eurosport 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%201.png" group-title="DAZN | DEPORTES 4K-HD", EUROSPORT 1 SD D
+http://567487.dynahost.ovh:80/peluco28/21320450/116354
+
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" group-title="DAZN | DEPORTES 4K-HD", EUROSPORT 2 FHD D
+http://567487.dynahost.ovh:80/peluco28/21320450/116355
+
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" group-title="DAZN | DEPORTES 4K-HD", EUROSPORT 2 HD D
+http://567487.dynahost.ovh:80/peluco28/21320450/116356
+
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Eurosport%202.png" group-title="DAZN | DEPORTES 4K-HD", EUROSPORT 2 SD D
+http://567487.dynahost.ovh:80/peluco28/21320450/116357
+
+#EXTINF:-1 tvg-id="DAZN COMBAT FHD" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", DAZN COMBAT FHD
+http://567487.dynahost.ovh:80/peluco28/21320450/208732
+
+#EXTINF:-1 tvg-id="DAZN UNBEATEN FHD D" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", DAZN UNBEATEN FHD D
+http://567487.dynahost.ovh:80/peluco28/21320450/116358
+
+#EXTINF:-1 tvg-id="DAZN UNBEATEN HD D" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", DAZN UNBEATEN HD D
+http://567487.dynahost.ovh:80/peluco28/21320450/116359
+
+#EXTINF:-1 tvg-id="DAZN UNBEATEN SD D" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", DAZN UNBEATEN SD D
+http://567487.dynahost.ovh:80/peluco28/21320450/116360
+
+#EXTINF:-1 tvg-id="REDBULL FHD D" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", REDBULL FHD D
+http://567487.dynahost.ovh:80/peluco28/21320450/116361
+
+#EXTINF:-1 tvg-id="REDBULL HD D" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", REDBULL HD D
+http://567487.dynahost.ovh:80/peluco28/21320450/116362
+
+#EXTINF:-1 tvg-id="REDBULL SD D" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", REDBULL SD D
+http://567487.dynahost.ovh:80/peluco28/21320450/116363
+
+#EXTINF:-1 tvg-id="DAZN Fast HD" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", DAZN Fast HD
+http://567487.dynahost.ovh:80/peluco28/21320450/141767
+
+#EXTINF:-1 tvg-id="DAZN EVENTOS 45 FHD" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", DAZN EVENTOS 45 FHD
+http://567487.dynahost.ovh:80/peluco28/21320450/116364
+
+#EXTINF:-1 tvg-id="DAZN EVENTOS 45 HD" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", DAZN EVENTOS 45 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116365
+
+#EXTINF:-1 tvg-id="DAZN EVENTOS 45 SD" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", DAZN EVENTOS 45 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116366
+
+#EXTINF:-1 tvg-id="DAZN 1 FHD DE" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", DAZN 1 FHD DE
+http://567487.dynahost.ovh:80/peluco28/21320450/116367
+
+#EXTINF:-1 tvg-id="DAZN 1 HD DE" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", DAZN 1 HD DE
+http://567487.dynahost.ovh:80/peluco28/21320450/116368
+
+#EXTINF:-1 tvg-id="DAZN 1 SD DE" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", DAZN 1 SD DE
+http://567487.dynahost.ovh:80/peluco28/21320450/116369
+
+#EXTINF:-1 tvg-id="DAZN 2 FHD DE" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", DAZN 2 FHD DE
+http://567487.dynahost.ovh:80/peluco28/21320450/116370
+
+#EXTINF:-1 tvg-id="DAZN 2 HD DE" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", DAZN 2 HD DE
+http://567487.dynahost.ovh:80/peluco28/21320450/116371
+
+#EXTINF:-1 tvg-id="DAZN 2 SD DE" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", DAZN 2 SD DE
+http://567487.dynahost.ovh:80/peluco28/21320450/116372
+
+#EXTINF:-1 tvg-id="EUROSPORT 1 FHD DE" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", EUROSPORT 1 FHD DE
+http://567487.dynahost.ovh:80/peluco28/21320450/116373
+
+#EXTINF:-1 tvg-id="EUROSPORT 1 HD DE" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", EUROSPORT 1 HD DE
+http://567487.dynahost.ovh:80/peluco28/21320450/116374
+
+#EXTINF:-1 tvg-id="EUROSPORT 1 SD DE" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", EUROSPORT 1 SD DE
+http://567487.dynahost.ovh:80/peluco28/21320450/116375
+
+#EXTINF:-1 tvg-id="EUROSPORT 2 FHD DE" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", EUROSPORT 2 FHD DE
+http://567487.dynahost.ovh:80/peluco28/21320450/116376
+
+#EXTINF:-1 tvg-id="EUROSPORT 2 HD DE" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", EUROSPORT 2 HD DE
+http://567487.dynahost.ovh:80/peluco28/21320450/116377
+
+#EXTINF:-1 tvg-id="EUROSPORT 2 SD DE" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", EUROSPORT 2 SD DE
+http://567487.dynahost.ovh:80/peluco28/21320450/116378
+
+#EXTINF:-1 tvg-id="SPORTDIGITAL FUSSBALL FHD DE" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", SPORTDIGITAL FUSSBALL FHD DE
+http://567487.dynahost.ovh:80/peluco28/21320450/116379
+
+#EXTINF:-1 tvg-id="SPORTDIGITAL FUSSBALL HD DE" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", SPORTDIGITAL FUSSBALL HD DE
+http://567487.dynahost.ovh:80/peluco28/21320450/116380
+
+#EXTINF:-1 tvg-id="SPORTDIGITAL FUSSBALL SD DE" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", SPORTDIGITAL FUSSBALL SD DE
+http://567487.dynahost.ovh:80/peluco28/21320450/116381
+
+#EXTINF:-1 tvg-id="NFL Network FHD DE" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", NFL Network FHD DE
+http://567487.dynahost.ovh:80/peluco28/21320450/116382
+
+#EXTINF:-1 tvg-id="NFL Network HD DE" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", NFL Network HD DE
+http://567487.dynahost.ovh:80/peluco28/21320450/116383
+
+#EXTINF:-1 tvg-id="NFL Network SD DE" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", NFL Network SD DE
+http://567487.dynahost.ovh:80/peluco28/21320450/116384
+
+#EXTINF:-1 tvg-id="MLB Network FHD DE" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", MLB Network FHD DE
+http://567487.dynahost.ovh:80/peluco28/21320450/116385
+
+#EXTINF:-1 tvg-id="MLB Network HD DE" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", MLB Network HD DE
+http://567487.dynahost.ovh:80/peluco28/21320450/116386
+
+#EXTINF:-1 tvg-id="MLB Network SD DE" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", MLB Network SD DE
+http://567487.dynahost.ovh:80/peluco28/21320450/116387
+
+#EXTINF:-1 tvg-id="NBA TV FHD DE" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", NBA TV FHD DE
+http://567487.dynahost.ovh:80/peluco28/21320450/116388
+
+#EXTINF:-1 tvg-id="NBA TV HD DE" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", NBA TV HD DE
+http://567487.dynahost.ovh:80/peluco28/21320450/116389
+
+#EXTINF:-1 tvg-id="NBA TV SD DE" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", NBA TV SD DE
+http://567487.dynahost.ovh:80/peluco28/21320450/116390
+
+#EXTINF:-1 tvg-id="ZONA DAZN FHD IT" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", ZONA DAZN FHD IT
+http://567487.dynahost.ovh:80/peluco28/21320450/116394
+
+#EXTINF:-1 tvg-id="ZONA DAZN HD IT" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", ZONA DAZN HD IT
+http://567487.dynahost.ovh:80/peluco28/21320450/116395
+
+#EXTINF:-1 tvg-id="ZONA DAZN SD IT" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", ZONA DAZN SD IT
+http://567487.dynahost.ovh:80/peluco28/21320450/116396
+
+#EXTINF:-1 tvg-id="DAZN MILAN TV  FHD IT" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", DAZN MILAN TV  FHD IT
+http://567487.dynahost.ovh:80/peluco28/21320450/116397
+
+#EXTINF:-1 tvg-id="DAZN MILAN TV  HD IT" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", DAZN MILAN TV  HD IT
+http://567487.dynahost.ovh:80/peluco28/21320450/116398
+
+#EXTINF:-1 tvg-id="DAZN MILAN TV  SD IT" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", DAZN MILAN TV  SD IT
+http://567487.dynahost.ovh:80/peluco28/21320450/116399
+
+#EXTINF:-1 tvg-id="DAZN 1 FHD UK" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", DAZN 1 FHD UK
+http://567487.dynahost.ovh:80/peluco28/21320450/116406
+
+#EXTINF:-1 tvg-id="DAZN 1 HD UK" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", DAZN 1 HD UK
+http://567487.dynahost.ovh:80/peluco28/21320450/116407
+
+#EXTINF:-1 tvg-id="DAZN 1 SD UK" tvg-logo="noimage.png" group-title="DAZN | DEPORTES 4K-HD", DAZN 1 SD UK
+http://567487.dynahost.ovh:80/peluco28/21320450/116408
+
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="DAZN | DAZN POR M+", DAZN LA LIGA HD B
+http://567487.dynahost.ovh:80/peluco28/21320450/119411
+
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="DAZN | DAZN POR M+", DAZN LA LIGA SD B
+http://567487.dynahost.ovh:80/peluco28/21320450/119412
+
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="DAZN | DAZN POR M+", DAZN LA LIGA HD ES
+http://567487.dynahost.ovh:80/peluco28/21320450/116873
+
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20LaLiga.png" group-title="DAZN | DAZN POR M+", DAZN LA LIGA SD ES
+http://567487.dynahost.ovh:80/peluco28/21320450/116874
+
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="DAZN | DAZN POR M+", DAZN 1 4K ES
+http://567487.dynahost.ovh:80/peluco28/21320450/116867
+
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="DAZN | DAZN POR M+", DAZN 1 HD ES
+http://567487.dynahost.ovh:80/peluco28/21320450/116868
+
+#EXTINF:-1 tvg-id="DAZN 1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%201.png" group-title="DAZN | DAZN POR M+", DAZN 1 SD ES
+http://567487.dynahost.ovh:80/peluco28/21320450/116869
+
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" group-title="DAZN | DAZN POR M+", DAZN 2 4K ES
+http://567487.dynahost.ovh:80/peluco28/21320450/116870
+
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" group-title="DAZN | DAZN POR M+", DAZN 2 HD ES
+http://567487.dynahost.ovh:80/peluco28/21320450/116871
+
+#EXTINF:-1 tvg-id="DAZN 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%202.png" group-title="DAZN | DAZN POR M+", DAZN 2 SD ES
+http://567487.dynahost.ovh:80/peluco28/21320450/116872
+
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="DAZN | DAZN POR M+", DAZN F1 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/116140
+
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="DAZN | DAZN POR M+", DAZN F1 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116141
+
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/DAZN%20F1.png" group-title="DAZN | DAZN POR M+", DAZN F1 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116142
+
+#EXTINF:-1 tvg-id="DAZN RISE (DEPORTE FEMENINO)" tvg-logo="noimage.png" group-title="DAZN | LIGA FEMENINA", DAZN RISE (DEPORTE FEMENINO)
+http://567487.dynahost.ovh:80/peluco28/21320450/116422
+
+#EXTINF:-1 tvg-id="Finetwork Dazn 1 HD (SOLO EVENTOS)" tvg-logo="noimage.png" group-title="DAZN | LIGA FEMENINA", Finetwork Dazn 1 HD (SOLO EVENTOS)
+http://567487.dynahost.ovh:80/peluco28/21320450/113818
+
+#EXTINF:-1 tvg-id="Finetwork Dazn 2 HD (SOLO EVENTOS)" tvg-logo="noimage.png" group-title="DAZN | LIGA FEMENINA", Finetwork Dazn 2 HD (SOLO EVENTOS)
+http://567487.dynahost.ovh:80/peluco28/21320450/113819
+
+#EXTINF:-1 tvg-id="Finetwork Dazn 3 HD (SOLO EVENTOS)" tvg-logo="noimage.png" group-title="DAZN | LIGA FEMENINA", Finetwork Dazn 3 HD (SOLO EVENTOS)
+http://567487.dynahost.ovh:80/peluco28/21320450/113820
+
+#EXTINF:-1 tvg-id="Finetwork Dazn 4 HD (SOLO EVENTOS)" tvg-logo="noimage.png" group-title="DAZN | LIGA FEMENINA", Finetwork Dazn 4 HD (SOLO EVENTOS)
+http://567487.dynahost.ovh:80/peluco28/21320450/113821
+
+#EXTINF:-1 tvg-id="Finetwork Dazn 5 HD (SOLO EVENTOS)" tvg-logo="noimage.png" group-title="DAZN | LIGA FEMENINA", Finetwork Dazn 5 HD (SOLO EVENTOS)
+http://567487.dynahost.ovh:80/peluco28/21320450/113822
+
+#EXTINF:-1 tvg-id="Onetoro" tvg-logo="https://onetoro.tv/assets/images/mundotoro-streaming-logo1.png" group-title="ESPAÑA | OCIO", Onetoro TV 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/113620
+
+#EXTINF:-1 tvg-id="Onetoro" tvg-logo="https://onetoro.tv/assets/images/mundotoro-streaming-logo1.png" group-title="ESPAÑA | OCIO", Onetoro TV HD
+http://567487.dynahost.ovh:80/peluco28/21320450/113619
+
+#EXTINF:-1 tvg-id="Onetoro" tvg-logo="https://onetoro.tv/assets/images/mundotoro-streaming-logo1.png" group-title="ESPAÑA | OCIO", Onetoro TV SD
+http://567487.dynahost.ovh:80/peluco28/21320450/115103
+
+#EXTINF:-1 tvg-id="Onetoro" tvg-logo="https://onetoro.tv/assets/images/mundotoro-streaming-logo1.png" group-title="ESPAÑA | OCIO", Onetoro TV HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116084
+
+#EXTINF:-1 tvg-id="Onetoro" tvg-logo="https://onetoro.tv/assets/images/mundotoro-streaming-logo1.png" group-title="ESPAÑA | OCIO", Onetoro TV SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116085
+
+#EXTINF:-1 tvg-id="Cazavisión" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Cazavisi%C3%B3n.png" group-title="ESPAÑA | OCIO", CAZAVISION HD
+http://567487.dynahost.ovh:80/peluco28/21320450/61421
+
+#EXTINF:-1 tvg-id="Red Bull TV" tvg-logo="https://static1.squarespace.com/static/52e7bca9e4b0357d590a94ef/t/531751a8e4b06e08b39bf475/1394036901650/RedBull.png" group-title="ESPAÑA | OCIO", RED BULL TV FHD
+http://567487.dynahost.ovh:80/peluco28/21320450/43651
+
+#EXTINF:-1 tvg-id="Iberalia TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20TV.png" group-title="ESPAÑA | OCIO", IBERALIA ORIGINAL 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/113844
+
+#EXTINF:-1 tvg-id="Iberalia caza" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20caza.png" group-title="ESPAÑA | OCIO", IBERALIA 100/100 CAZA 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/113845
+
+#EXTINF:-1 tvg-id="Iberalia pesca" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Iberalia%20pesca.png" group-title="ESPAÑA | OCIO", IBERALIA PESCA 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/113843
+
+#EXTINF:-1 tvg-id="Surf Channel" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Surf%20Channel.png" group-title="ESPAÑA | OCIO", SURF CHANNEL
+http://567487.dynahost.ovh:80/peluco28/21320450/114119
+
+#EXTINF:-1 tvg-id="NatureTime" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/NatureTime.png" group-title="ESPAÑA | OCIO", NATURE TIME ES
+http://567487.dynahost.ovh:80/peluco28/21320450/113773
+
+#EXTINF:-1 tvg-id="VIVIR CON GATOS" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Vivir%20con%20gatos.png" group-title="ESPAÑA | OCIO", VIVIR CON GATOS
+http://567487.dynahost.ovh:80/peluco28/21320450/113942
+
+#EXTINF:-1 tvg-id="VIVIR CON PERROS" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Vivir%20con%20perros.png" group-title="ESPAÑA | OCIO", VIVIR CON PERROS
+http://567487.dynahost.ovh:80/peluco28/21320450/114117
+
+#EXTINF:-1 tvg-id="Motorvision" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Motorvision.png" group-title="ESPAÑA | OCIO", MOTOR VISION TV
+http://567487.dynahost.ovh:80/peluco28/21320450/114120
+
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Cocina.png" group-title="ESPAÑA | OCIO", Canal Cocina 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/115955
+
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Cocina.png" group-title="ESPAÑA | OCIO", Canal Cocina HD
+http://567487.dynahost.ovh:80/peluco28/21320450/115956
+
+#EXTINF:-1 tvg-id="Canal Cocina" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Canal%20Cocina.png" group-title="ESPAÑA | OCIO", Canal Cocina SD
+http://567487.dynahost.ovh:80/peluco28/21320450/115957
+
+#EXTINF:-1 tvg-id="GOURMET" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/609/CH_LOGO/160/160/0/0/4921275007100602.png" group-title="ESPAÑA | OCIO", GOURMET
+http://567487.dynahost.ovh:80/peluco28/21320450/210409
+
+#EXTINF:-1 tvg-id="FOOD  NETWORK" tvg-logo="https://edge.prod.ovp.ses.com:9002/images/727/CH_LOGO/160/160/0/0/207739200744718.png" group-title="ESPAÑA | OCIO", FOOD  NETWORK
+http://567487.dynahost.ovh:80/peluco28/21320450/210410
+
+#EXTINF:-1 tvg-id="El Toro TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/El%20Toro%20TV.png" group-title="ESPAÑA | OCIO", El Toro TV HD
+http://567487.dynahost.ovh:80/peluco28/21320450/115978
+
+#EXTINF:-1 tvg-id="El Toro TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/El%20Toro%20TV.png" group-title="ESPAÑA | OCIO", El Toro TV SD
+http://567487.dynahost.ovh:80/peluco28/21320450/115979
+
+#EXTINF:-1 tvg-id="BuenViaje" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/BuenViaje.png" group-title="ESPAÑA | OCIO", BUEN VIAJE
+http://567487.dynahost.ovh:80/peluco28/21320450/116080
+
+#EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caza%20y%20Pesca.png" group-title="ESPAÑA | OCIO", CAZA Y PESCA 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/116081
+
+#EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caza%20y%20Pesca.png" group-title="ESPAÑA | OCIO", CAZA Y PESCA HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116082
+
+#EXTINF:-1 tvg-id="Caza y Pesca HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Caza%20y%20Pesca.png" group-title="ESPAÑA | OCIO", CAZA Y PESCA  SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116083
+
+#EXTINF:-1 tvg-id="Negocios TV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Negocios%20TV.png" group-title="ESPAÑA | OCIO", Negocios TV
+http://567487.dynahost.ovh:80/peluco28/21320450/116219
+
+#EXTINF:-1 tvg-id="UBEAT" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/UBEAT.png" group-title="ESPAÑA | OCIO", Ubeat 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/116220
+
+#EXTINF:-1 tvg-id="UBEAT" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/UBEAT.png" group-title="ESPAÑA | OCIO", Ubeat HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116221
+
+#EXTINF:-1 tvg-id="UBEAT" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/UBEAT.png" group-title="ESPAÑA | OCIO", Ubeat SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116222
+
+#EXTINF:-1 tvg-id="24 Horas" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/24%20Horas.png" group-title="ESPAÑA | NOTICIAS", 24 HORAS 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/64356
+
+#EXTINF:-1 tvg-id="EuroNews" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/EuroNews.png" group-title="ESPAÑA | NOTICIAS", EURONEWS EN ESPANOL HD
+http://567487.dynahost.ovh:80/peluco28/21320450/45508
+
+#EXTINF:-1 tvg-id="EuroNews" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/EuroNews.png" group-title="ESPAÑA | NOTICIAS", EURONEWS EN ESPANOL SD
+http://567487.dynahost.ovh:80/peluco28/21320450/140039
+
+#EXTINF:-1 tvg-id="DW EN ESPAÑOL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/150px-Deutsche_Welle_symbol_2012.svg.png" group-title="ESPAÑA | NOTICIAS", DW EN ESPAÑOL
+http://567487.dynahost.ovh:80/peluco28/21320450/45794
+
+#EXTINF:-1 tvg-id="France 24 (en Francais)" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/France%2024%20(en%20Francais).png" group-title="ESPAÑA | NOTICIAS", FRANCE24 EN ESPAÑOL 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/45793
+
+#EXTINF:-1 tvg-id="NTN24" tvg-logo="https://pbs.twimg.com/profile_images/1278404640418287617/wwoZKuuA_400x400.png" group-title="ESPAÑA | NOTICIAS", NTN24
+http://567487.dynahost.ovh:80/peluco28/21320450/39470
+
+#EXTINF:-1 tvg-id="NETFLIX CASAS ALUCINANTES - (CAMBIAR EL IDIOMA DESDE EL MANDO)" tvg-logo="noimage.png" group-title="ESPAÑA | NETFLIX", NETFLIX CASAS ALUCINANTES - (CAMBIAR EL IDIOMA DESDE EL MANDO)
+http://567487.dynahost.ovh:80/peluco28/21320450/87097
+
+#EXTINF:-1 tvg-id="NETFLIX VAN HELSING - (CAMBIAR EL IDIOMA DESDE EL MANDO)" tvg-logo="noimage.png" group-title="ESPAÑA | NETFLIX", NETFLIX VAN HELSING - (CAMBIAR EL IDIOMA DESDE EL MANDO)
+http://567487.dynahost.ovh:80/peluco28/21320450/87062
+
+#EXTINF:-1 tvg-id="NETFLIX EL ESPIA - (CAMBIAR EL IDIOMA DESDE EL MANDO)" tvg-logo="noimage.png" group-title="ESPAÑA | NETFLIX", NETFLIX EL ESPIA - (CAMBIAR EL IDIOMA DESDE EL MANDO)
+http://567487.dynahost.ovh:80/peluco28/21320450/87098
+
+#EXTINF:-1 tvg-id="NETFLIX SCREAM - multiaudio" tvg-logo="noimage.png" group-title="ESPAÑA | NETFLIX", NETFLIX SCREAM - multiaudio
+http://567487.dynahost.ovh:80/peluco28/21320450/87054
+
+#EXTINF:-1 tvg-id="NETFLIX CINE 1 (4K)" tvg-logo="noimage.png" group-title="ESPAÑA | NETFLIX", NETFLIX CINE 1 (4K)
+http://567487.dynahost.ovh:80/peluco28/21320450/79734
+
+#EXTINF:-1 tvg-id="NETFLIX CINE 2 (4K)" tvg-logo="noimage.png" group-title="ESPAÑA | NETFLIX", NETFLIX CINE 2 (4K)
+http://567487.dynahost.ovh:80/peluco28/21320450/79735
+
+#EXTINF:-1 tvg-id="NETFLIX CINE 3 (4K)" tvg-logo="noimage.png" group-title="ESPAÑA | NETFLIX", NETFLIX CINE 3 (4K)
+http://567487.dynahost.ovh:80/peluco28/21320450/79736
+
+#EXTINF:-1 tvg-id="NETFLIX CINE 4 (4K)" tvg-logo="noimage.png" group-title="ESPAÑA | NETFLIX", NETFLIX CINE 4 (4K)
+http://567487.dynahost.ovh:80/peluco28/21320450/79737
+
+#EXTINF:-1 tvg-id="NETFLIX CINE 5 (4K)" tvg-logo="noimage.png" group-title="ESPAÑA | NETFLIX", NETFLIX CINE 5 (4K)
+http://567487.dynahost.ovh:80/peluco28/21320450/79738
+
+#EXTINF:-1 tvg-id="NETFLIX CINE 6 (4K)" tvg-logo="noimage.png" group-title="ESPAÑA | NETFLIX", NETFLIX CINE 6 (4K)
+http://567487.dynahost.ovh:80/peluco28/21320450/79739
+
+#EXTINF:-1 tvg-id="NETFLIX CINE 1" tvg-logo="http://www.fourformusic.com/data/uploads/originals/clients/logo_netflix_-20181031150101-628.png" group-title="ESPAÑA | NETFLIX", NETFLIX CINE 1
+http://567487.dynahost.ovh:80/peluco28/21320450/74752
+
+#EXTINF:-1 tvg-id="NETFLIX CINE 2" tvg-logo="http://www.fourformusic.com/data/uploads/originals/clients/logo_netflix_-20181031150101-628.png" group-title="ESPAÑA | NETFLIX", NETFLIX CINE 2
+http://567487.dynahost.ovh:80/peluco28/21320450/74753
+
+#EXTINF:-1 tvg-id="NETFLIX CINE 3" tvg-logo="http://www.fourformusic.com/data/uploads/originals/clients/logo_netflix_-20181031150101-628.png" group-title="ESPAÑA | NETFLIX", NETFLIX CINE 3
+http://567487.dynahost.ovh:80/peluco28/21320450/74763
+
+#EXTINF:-1 tvg-id="NETFLIX CINE 4" tvg-logo="http://www.fourformusic.com/data/uploads/originals/clients/logo_netflix_-20181031150101-628.png" group-title="ESPAÑA | NETFLIX", NETFLIX CINE 4
+http://567487.dynahost.ovh:80/peluco28/21320450/74764
+
+#EXTINF:-1 tvg-id="NETFLIX CINE 5" tvg-logo="http://www.fourformusic.com/data/uploads/originals/clients/logo_netflix_-20181031150101-628.png" group-title="ESPAÑA | NETFLIX", NETFLIX CINE 5
+http://567487.dynahost.ovh:80/peluco28/21320450/74765
+
+#EXTINF:-1 tvg-id="NETFLIX CINE 6" tvg-logo="http://www.fourformusic.com/data/uploads/originals/clients/logo_netflix_-20181031150101-628.png" group-title="ESPAÑA | NETFLIX", NETFLIX CINE 6
+http://567487.dynahost.ovh:80/peluco28/21320450/74766
+
+#EXTINF:-1 tvg-id="Netflix Pack 1 HD" tvg-logo="noimage.png" group-title="ESPAÑA | NETFLIX", Netflix Pack 1 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/209474
+
+#EXTINF:-1 tvg-id="Netflix Pack 2 HD" tvg-logo="noimage.png" group-title="ESPAÑA | NETFLIX", Netflix Pack 2 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/209475
+
+#EXTINF:-1 tvg-id="Netflix Pack 3 HD" tvg-logo="noimage.png" group-title="ESPAÑA | NETFLIX", Netflix Pack 3 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/209476
+
+#EXTINF:-1 tvg-id="Netflix Pack 4 HD" tvg-logo="noimage.png" group-title="ESPAÑA | NETFLIX", Netflix Pack 4 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/209477
+
+#EXTINF:-1 tvg-id="Netflix Pack 5 HD" tvg-logo="noimage.png" group-title="ESPAÑA | NETFLIX", Netflix Pack 5 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/209478
+
+#EXTINF:-1 tvg-id="Netflix Pack 6 HD" tvg-logo="noimage.png" group-title="ESPAÑA | NETFLIX", Netflix Pack 6 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/209479
+
+#EXTINF:-1 tvg-id="Netflix Pack 7 HD" tvg-logo="noimage.png" group-title="ESPAÑA | NETFLIX", Netflix Pack 7 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/209480
+
+#EXTINF:-1 tvg-id="Netflix Pack 8 HD" tvg-logo="noimage.png" group-title="ESPAÑA | NETFLIX", Netflix Pack 8 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/209481
+
+#EXTINF:-1 tvg-id="Netflix Pack 9 HD" tvg-logo="noimage.png" group-title="ESPAÑA | NETFLIX", Netflix Pack 9 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/209482
+
+#EXTINF:-1 tvg-id="Netflix Pack 10 HD" tvg-logo="noimage.png" group-title="ESPAÑA | NETFLIX", Netflix Pack 10 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/209483
+
+#EXTINF:-1 tvg-id="Netflix Pack 11 HD" tvg-logo="noimage.png" group-title="ESPAÑA | NETFLIX", Netflix Pack 11 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/209484
+
+#EXTINF:-1 tvg-id="Netflix Pack 13 HD" tvg-logo="noimage.png" group-title="ESPAÑA | NETFLIX", Netflix Pack 13 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/209485
+
+#EXTINF:-1 tvg-id="Netflix Pack 14 HD" tvg-logo="noimage.png" group-title="ESPAÑA | NETFLIX", Netflix Pack 14 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/209486
+
+#EXTINF:-1 tvg-id="ONDA CADIZ HD" tvg-logo="http://img.new.livestream.com/events/000000000078e76a/984e08ca-43b7-4ca4-ad16-73ea779f0820.png" group-title="ESPAÑA | AUTÓNOMICOS", ONDA CADIZ HD
+http://567487.dynahost.ovh:80/peluco28/21320450/44453
+
+#EXTINF:-1 tvg-id="RADIO TV CEUTA HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/RtvCeuta.svg/1200px-RtvCeuta.svg.png" group-title="ESPAÑA | AUTÓNOMICOS", RADIO TV CEUTA HD
+http://567487.dynahost.ovh:80/peluco28/21320450/24318
+
+#EXTINF:-1 tvg-id="MELILLA TV HD" tvg-logo="http://directos.lasteles.com/wp-content/uploads/2017/11/MELILLA.png" group-title="ESPAÑA | AUTÓNOMICOS", MELILLA TV HD
+http://567487.dynahost.ovh:80/peluco28/21320450/27198
+
+#EXTINF:-1 tvg-id="CANAL PARLAMENTO" tvg-logo="noimage.png" group-title="ESPAÑA | AUTÓNOMICOS", CANAL PARLAMENTO
+http://567487.dynahost.ovh:80/peluco28/21320450/43349
+
+#EXTINF:-1 tvg-id="INTERECONOMIA" tvg-logo="https://www.intereconomia.tv/wp-content/uploads/2017/09/intereconomiatv_logo_movil-2.png" group-title="ESPAÑA | AUTÓNOMICOS", INTERECONOMIA
+http://567487.dynahost.ovh:80/peluco28/21320450/44457
+
+#EXTINF:-1 tvg-id="TELEBILBAO" tvg-logo="https://www.karpinabentura.com/images/Karpin/imagenes_web_karpin/medios_amigos/logo_tbilbao.jpg" group-title="ESPAÑA | AUTÓNOMICOS", TELEBILBAO
+http://567487.dynahost.ovh:80/peluco28/21320450/44465
+
+#EXTINF:-1 tvg-id="ETB2 HD" tvg-logo="noimage.png" group-title="ESPAÑA | AUTÓNOMICOS", ETB2 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/45419
+
+#EXTINF:-1 tvg-id="ETB1 HD" tvg-logo="noimage.png" group-title="ESPAÑA | AUTÓNOMICOS", ETB1 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/45420
+
+#EXTINF:-1 tvg-id="ETB SAT CANAL VASCO" tvg-logo="noimage.png" group-title="ESPAÑA | AUTÓNOMICOS", ETB SAT CANAL VASCO
+http://567487.dynahost.ovh:80/peluco28/21320450/45421
+
+#EXTINF:-1 tvg-id="SOLIDARIA TV HD" tvg-logo="noimage.png" group-title="ESPAÑA | AUTÓNOMICOS", SOLIDARIA TV HD
+http://567487.dynahost.ovh:80/peluco28/21320450/45423
+
+#EXTINF:-1 tvg-id="TVG MUSIGAL" tvg-logo="noimage.png" group-title="ESPAÑA | AUTÓNOMICOS", TVG MUSIGAL
+http://567487.dynahost.ovh:80/peluco28/21320450/45432
+
+#EXTINF:-1 tvg-id="TVG EUROPA" tvg-logo="noimage.png" group-title="ESPAÑA | AUTÓNOMICOS", TVG EUROPA
+http://567487.dynahost.ovh:80/peluco28/21320450/45434
+
+#EXTINF:-1 tvg-id="TVG.2.es" tvg-logo="noimage.png" group-title="ESPAÑA | AUTÓNOMICOS", TVG 2
+http://567487.dynahost.ovh:80/peluco28/21320450/111131
+
+#EXTINF:-1 tvg-id="CANAL EXTREMADURA" tvg-logo="noimage.png" group-title="ESPAÑA | AUTÓNOMICOS", CANAL EXTREMADURA
+http://567487.dynahost.ovh:80/peluco28/21320450/45435
+
+#EXTINF:-1 tvg-id="TV 3 CAT HD" tvg-logo="noimage.png" group-title="ESPAÑA | AUTÓNOMICOS", TV 3 CAT HD
+http://567487.dynahost.ovh:80/peluco28/21320450/79733
+
+#EXTINF:-1 tvg-id="324" tvg-logo="noimage.png" group-title="ESPAÑA | AUTÓNOMICOS", 324
+http://567487.dynahost.ovh:80/peluco28/21320450/45446
+
+#EXTINF:-1 tvg-id="LANCELOT TV" tvg-logo="noimage.png" group-title="ESPAÑA | AUTÓNOMICOS", LANCELOT TV
+http://567487.dynahost.ovh:80/peluco28/21320450/45452
+
+#EXTINF:-1 tvg-id="MIRAME TV" tvg-logo="noimage.png" group-title="ESPAÑA | AUTÓNOMICOS", MIRAME TV
+http://567487.dynahost.ovh:80/peluco28/21320450/45453
+
+#EXTINF:-1 tvg-id="ARAGON TV" tvg-logo="noimage.png" group-title="ESPAÑA | AUTÓNOMICOS", ARAGON TV
+http://567487.dynahost.ovh:80/peluco28/21320450/45457
+
+#EXTINF:-1 tvg-id="CANAL MALAGA" tvg-logo="noimage.png" group-title="ESPAÑA | AUTÓNOMICOS", CANAL MALAGA
+http://567487.dynahost.ovh:80/peluco28/21320450/45468
+
+#EXTINF:-1 tvg-id="CANAL COSTA" tvg-logo="noimage.png" group-title="ESPAÑA | AUTÓNOMICOS", CANAL COSTA
+http://567487.dynahost.ovh:80/peluco28/21320450/45470
+
+#EXTINF:-1 tvg-id="RTV VIDA HD" tvg-logo="noimage.png" group-title="ESPAÑA | AUTÓNOMICOS", RTV VIDA HD
+http://567487.dynahost.ovh:80/peluco28/21320450/45488
+
+#EXTINF:-1 tvg-id="CANAL CANARIAS" tvg-logo="noimage.png" group-title="ESPAÑA | AUTÓNOMICOS", CANAL CANARIAS
+http://567487.dynahost.ovh:80/peluco28/21320450/113441
+
+#EXTINF:-1 tvg-id="RITMOSON HD" tvg-logo="http://russia.za3za3.com:19745/imagesiptv/logos/1/SPAIN/Ritmoson-logo.png" group-title="ESPAÑA | MUSICA", RITMOSON HD
+http://567487.dynahost.ovh:80/peluco28/21320450/101311
+
+#EXTINF:-1 tvg-id="TRACE Urban" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TRACE%20Urban.pnghttps://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/TRACE%20Urban.png" group-title="ESPAÑA | MUSICA", TRACE URBAN
+http://567487.dynahost.ovh:80/peluco28/21320450/114121
+
+#EXTINF:-1 tvg-id="MTV 00s" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MTV%2000s.png" group-title="ESPAÑA | MUSICA", MTV 00s
+http://567487.dynahost.ovh:80/peluco28/21320450/116210
+
+#EXTINF:-1 tvg-id="MTV España" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MTV.png" group-title="ESPAÑA | MUSICA", MTV 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/116211
+
+#EXTINF:-1 tvg-id="MTV España" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MTV.png" group-title="ESPAÑA | MUSICA", MTV HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116212
+
+#EXTINF:-1 tvg-id="MTV España" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/MTV.png" group-title="ESPAÑA | MUSICA", MTV SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116213
+
+#EXTINF:-1 tvg-id="CLASICA HD" tvg-logo="noimage.png" group-title="ESPAÑA | MUSICA", CLASICA HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116214
+
+#EXTINF:-1 tvg-id="CLASICA SD" tvg-logo="noimage.png" group-title="ESPAÑA | MUSICA", CLASICA SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116215
+
+#EXTINF:-1 tvg-id="Mezzo Live HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mezzo%20Live.png" group-title="ESPAÑA | MUSICA", MEZZO LIVE 4K M
+http://567487.dynahost.ovh:80/peluco28/21320450/117671
+
+#EXTINF:-1 tvg-id="Mezzo Live HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mezzo%20Live.png" group-title="ESPAÑA | MUSICA", MEZZO LIVE HD M
+http://567487.dynahost.ovh:80/peluco28/21320450/117672
+
+#EXTINF:-1 tvg-id="Mezzo" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/Mezzo.png" group-title="ESPAÑA | MUSICA", MEZZO M SD
+http://567487.dynahost.ovh:80/peluco28/21320450/117670
+
+#EXTINF:-1 tvg-id="FEF TV 1" tvg-logo="noimage.png" group-title="ESPAÑA | FEFTV", FEF TV 1
+http://567487.dynahost.ovh:80/peluco28/21320450/121013
+
+#EXTINF:-1 tvg-id="FEF TV 2" tvg-logo="noimage.png" group-title="ESPAÑA | FEFTV", FEF TV 2
+http://567487.dynahost.ovh:80/peluco28/21320450/121014
+
+#EXTINF:-1 tvg-id="FEF TV 3" tvg-logo="noimage.png" group-title="ESPAÑA | FEFTV", FEF TV 3
+http://567487.dynahost.ovh:80/peluco28/21320450/121015
+
+#EXTINF:-1 tvg-id="FEF TV 4" tvg-logo="noimage.png" group-title="ESPAÑA | FEFTV", FEF TV 4
+http://567487.dynahost.ovh:80/peluco28/21320450/121016
+
+#EXTINF:-1 tvg-id="FEF TV 5" tvg-logo="noimage.png" group-title="ESPAÑA | FEFTV", FEF TV 5
+http://567487.dynahost.ovh:80/peluco28/21320450/121017
+
+#EXTINF:-1 tvg-id="FEF TV 6" tvg-logo="noimage.png" group-title="ESPAÑA | FEFTV", FEF TV 6
+http://567487.dynahost.ovh:80/peluco28/21320450/121018
+
+#EXTINF:-1 tvg-id="FEF TV 7" tvg-logo="noimage.png" group-title="ESPAÑA | FEFTV", FEF TV 7
+http://567487.dynahost.ovh:80/peluco28/21320450/121019
+
+#EXTINF:-1 tvg-id="FEF TV 8" tvg-logo="noimage.png" group-title="ESPAÑA | FEFTV", FEF TV 8
+http://567487.dynahost.ovh:80/peluco28/21320450/121020
+
+#EXTINF:-1 tvg-id="FEF TV 9" tvg-logo="noimage.png" group-title="ESPAÑA | FEFTV", FEF TV 9
+http://567487.dynahost.ovh:80/peluco28/21320450/121021
+
+#EXTINF:-1 tvg-id="FEF TV 10" tvg-logo="noimage.png" group-title="ESPAÑA | FEFTV", FEF TV 10
+http://567487.dynahost.ovh:80/peluco28/21320450/121022
+
+#EXTINF:-1 tvg-id="FEF TV 11" tvg-logo="noimage.png" group-title="ESPAÑA | FEFTV", FEF TV 11
+http://567487.dynahost.ovh:80/peluco28/21320450/121023
+
+#EXTINF:-1 tvg-id="FEF TV 12" tvg-logo="noimage.png" group-title="ESPAÑA | FEFTV", FEF TV 12
+http://567487.dynahost.ovh:80/peluco28/21320450/121024
+
+#EXTINF:-1 tvg-id="FEF TV 13" tvg-logo="noimage.png" group-title="ESPAÑA | FEFTV", FEF TV 13
+http://567487.dynahost.ovh:80/peluco28/21320450/121025
+
+#EXTINF:-1 tvg-id="FEF TV 14" tvg-logo="noimage.png" group-title="ESPAÑA | FEFTV", FEF TV 14
+http://567487.dynahost.ovh:80/peluco28/21320450/121026
+
+#EXTINF:-1 tvg-id="FEF TV 15" tvg-logo="noimage.png" group-title="ESPAÑA | FEFTV", FEF TV 15
+http://567487.dynahost.ovh:80/peluco28/21320450/121027
+
+#EXTINF:-1 tvg-id="FEF TV 16" tvg-logo="noimage.png" group-title="ESPAÑA | FEFTV", FEF TV 16
+http://567487.dynahost.ovh:80/peluco28/21320450/121028
+
+#EXTINF:-1 tvg-id="FEF TV 17" tvg-logo="noimage.png" group-title="ESPAÑA | FEFTV", FEF TV 17
+http://567487.dynahost.ovh:80/peluco28/21320450/121029
+
+#EXTINF:-1 tvg-id="FEF TV 18" tvg-logo="noimage.png" group-title="ESPAÑA | FEFTV", FEF TV 18
+http://567487.dynahost.ovh:80/peluco28/21320450/121030
+
+#EXTINF:-1 tvg-id="FEF TV 19" tvg-logo="noimage.png" group-title="ESPAÑA | FEFTV", FEF TV 19
+http://567487.dynahost.ovh:80/peluco28/21320450/121031
+
+#EXTINF:-1 tvg-id="FEF TV 20" tvg-logo="noimage.png" group-title="ESPAÑA | FEFTV", FEF TV 20
+http://567487.dynahost.ovh:80/peluco28/21320450/121032
+
+#EXTINF:-1 tvg-id="M+ Copa del Rey" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Copa%20del%20Rey.png" group-title="ESPAÑA | COPA DEL REY", M+ Copa del Rey 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/209934
+
+#EXTINF:-1 tvg-id="M+ Copa del Rey" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Copa%20del%20Rey.png" group-title="ESPAÑA | COPA DEL REY", M+ Copa del Rey HD
+http://567487.dynahost.ovh:80/peluco28/21320450/209935
+
+#EXTINF:-1 tvg-id="M+ Copa del Rey" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Copa%20del%20Rey.png" group-title="ESPAÑA | COPA DEL REY", M+ Copa del Rey SD
+http://567487.dynahost.ovh:80/peluco28/21320450/209936
+
+#EXTINF:-1 tvg-id="M+ Copa del Rey" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Copa%20del%20Rey.png" group-title="ESPAÑA | COPA DEL REY", [ORANGE-ES] M+ Copa del Rey SD
+http://567487.dynahost.ovh:80/peluco28/21320450/203281
+
+#EXTINF:-1 tvg-id="M+ Copa del Rey" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Copa%20del%20Rey.png" group-title="ESPAÑA | COPA DEL REY", [ORANGE-ES] M+ Copa del Rey HD
+http://567487.dynahost.ovh:80/peluco28/21320450/203180
+
+#EXTINF:-1 tvg-id="M+ Copa del Rey" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Copa%20del%20Rey.png" group-title="ESPAÑA | COPA DEL REY", [ORANGE-ES] M+ Copa del Rey FHD
+http://567487.dynahost.ovh:80/peluco28/21320450/203077
+
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="ESPAÑA | LALIGA TV POR M+", M+LaLigaTV 4k
+http://567487.dynahost.ovh:80/peluco28/21320450/116086
+
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="ESPAÑA | LALIGA TV POR M+", M+LaLigaTV HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116087
+
+#EXTINF:-1 tvg-id="M+ LaLiga TV HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV.png" group-title="ESPAÑA | LALIGA TV POR M+", M+LaLigaTV SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116088
+
+#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%202.png" group-title="ESPAÑA | LALIGA TV POR M+", M+LaLigaTV 2 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/116089
+
+#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%202.png" group-title="ESPAÑA | LALIGA TV POR M+", M+LaLigaTV 2 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116090
+
+#EXTINF:-1 tvg-id="M+ LaLiga TV 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%202.png" group-title="ESPAÑA | LALIGA TV POR M+", M+LaLigaTV 2 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116091
+
+#EXTINF:-1 tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%203.png" group-title="ESPAÑA | LALIGA TV POR M+", M+LaLigaTV 3 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/116092
+
+#EXTINF:-1 tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%203.png" group-title="ESPAÑA | LALIGA TV POR M+", M+LaLigaTV 3 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116093
+
+#EXTINF:-1 tvg-id="M+ LaLiga TV 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%203.png" group-title="ESPAÑA | LALIGA TV POR M+", M+LaLigaTV 3 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116094
+
+#EXTINF:-1 tvg-id="M+ LaLiga TV 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%204.png" group-title="ESPAÑA | LALIGA TV POR M+", M+LaLigaTV 4 4k
+http://567487.dynahost.ovh:80/peluco28/21320450/117149
+
+#EXTINF:-1 tvg-id="M+ LaLiga TV 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%204.png" group-title="ESPAÑA | LALIGA TV POR M+", M+LaLigaTV 4 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/117150
+
+#EXTINF:-1 tvg-id="M+ LaLiga TV 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%204.png" group-title="ESPAÑA | LALIGA TV POR M+", M+LaLigaTV 4 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/117151
+
+#EXTINF:-1 tvg-id="M+LaLigaTV 5 4k" tvg-logo="noimage.png" group-title="ESPAÑA | LALIGA TV POR M+", M+LaLigaTV 5 4k
+http://567487.dynahost.ovh:80/peluco28/21320450/117152
+
+#EXTINF:-1 tvg-id="M+LaLigaTV 5 HD" tvg-logo="noimage.png" group-title="ESPAÑA | LALIGA TV POR M+", M+LaLigaTV 5 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/117153
+
+#EXTINF:-1 tvg-id="M+LaLigaTV 5 SD" tvg-logo="noimage.png" group-title="ESPAÑA | LALIGA TV POR M+", M+LaLigaTV 5 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/117154
+
+#EXTINF:-1 tvg-id="M+LaLigaTV 6 4k" tvg-logo="noimage.png" group-title="ESPAÑA | LALIGA TV POR M+", M+LaLigaTV 6 4k
+http://567487.dynahost.ovh:80/peluco28/21320450/117155
+
+#EXTINF:-1 tvg-id="M+LaLigaTV 6 HD" tvg-logo="noimage.png" group-title="ESPAÑA | LALIGA TV POR M+", M+LaLigaTV 6 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/117156
+
+#EXTINF:-1 tvg-id="M+LaLigaTV 6 SD" tvg-logo="noimage.png" group-title="ESPAÑA | LALIGA TV POR M+", M+LaLigaTV 6 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/117157
+
+#EXTINF:-1 tvg-id="M+LaLigaTV 7 4k" tvg-logo="noimage.png" group-title="ESPAÑA | LALIGA TV POR M+", M+LaLigaTV 7 4k
+http://567487.dynahost.ovh:80/peluco28/21320450/117158
+
+#EXTINF:-1 tvg-id="M+LaLigaTV 7 HD" tvg-logo="noimage.png" group-title="ESPAÑA | LALIGA TV POR M+", M+LaLigaTV 7 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/117159
+
+#EXTINF:-1 tvg-id="M+LaLigaTV 7 SD" tvg-logo="noimage.png" group-title="ESPAÑA | LALIGA TV POR M+", M+LaLigaTV 7 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/117160
+
+#EXTINF:-1 tvg-id="La Liga Inside" tvg-logo="https://media.tvup.cloud/canales/color_lg_654b7c53df47884c5b032b4e.png" group-title="ESPAÑA | LALIGA TV POR M+", LALIGA INSIDE
+http://567487.dynahost.ovh:80/peluco28/21320450/140095
+
+#EXTINF:-1 tvg-id="M+ LaLiga TV Bar FHD" tvg-logo="noimage.png" group-title="ESPAÑA | CANALES BAR", M+ LaLiga TV Bar FHD
+http://567487.dynahost.ovh:80/peluco28/21320450/121034
+
+#EXTINF:-1 tvg-id="M+ LaLiga TV Bar 2 FHD" tvg-logo="noimage.png" group-title="ESPAÑA | CANALES BAR", M+ LaLiga TV Bar 2 FHD
+http://567487.dynahost.ovh:80/peluco28/21320450/121035
+
+#EXTINF:-1 tvg-id="Dazn 1 Bar HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznbar01.png" group-title="ESPAÑA | CANALES BAR", Dazn 1 Bar HD
+http://567487.dynahost.ovh:80/peluco28/21320450/140034
+
+#EXTINF:-1 tvg-id="Dazn 1 Bar SD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznbar01.png" group-title="ESPAÑA | CANALES BAR", Dazn 1 Bar SD
+http://567487.dynahost.ovh:80/peluco28/21320450/140035
+
+#EXTINF:-1 tvg-id="Dazn 2 Bar HD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznbar02.png" group-title="ESPAÑA | CANALES BAR", Dazn 2 Bar HD
+http://567487.dynahost.ovh:80/peluco28/21320450/140036
+
+#EXTINF:-1 tvg-id="Dazn 2 Bar SD" tvg-logo="https://www.mundoplus.tv/wiki/_media/logos/daznbar02.png" group-title="ESPAÑA | CANALES BAR", Dazn 2 Bar SD
+http://567487.dynahost.ovh:80/peluco28/21320450/140037
+
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+", LaLiga TV Hypermotion 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/116128
+
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+", LaLiga TV Hypermotion HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116129
+
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion.png" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+", LaLiga TV Hypermotion SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116130
+
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+", LaLiga TV Hypermotion 2 4k
+http://567487.dynahost.ovh:80/peluco28/21320450/116131
+
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+", LaLiga TV Hypermotion 2 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116132
+
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 2" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%202.png" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+", LaLiga TV Hypermotion 2 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116133
+
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+", LaLiga TV Hypermotion 3 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/116134
+
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+", LaLiga TV Hypermotion 3 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116135
+
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 3" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/LaLiga%20TV%20Hypermotion%203.png" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+", LaLiga TV Hypermotion 3 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116136
+
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 4 4K" tvg-logo="noimage.png" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+", LaLiga TV Hypermotion 4 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/116822
+
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 4 HD" tvg-logo="noimage.png" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+", LaLiga TV Hypermotion 4 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116823
+
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 4 SD" tvg-logo="noimage.png" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+", LaLiga TV Hypermotion 4 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116824
+
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 5 4K" tvg-logo="noimage.png" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+", LaLiga TV Hypermotion 5 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/116825
+
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 5 HD" tvg-logo="noimage.png" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+", LaLiga TV Hypermotion 5 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116826
+
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 5 SD" tvg-logo="noimage.png" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+", LaLiga TV Hypermotion 5 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116827
+
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 6 4K" tvg-logo="noimage.png" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+", LaLiga TV Hypermotion 6 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/116828
+
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 6 HD" tvg-logo="noimage.png" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+", LaLiga TV Hypermotion 6 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116829
+
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 6 SD" tvg-logo="noimage.png" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+", LaLiga TV Hypermotion 6 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116830
+
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 7 4K" tvg-logo="noimage.png" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+", LaLiga TV Hypermotion 7 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/116831
+
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 7 HD" tvg-logo="noimage.png" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+", LaLiga TV Hypermotion 7 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116832
+
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 8 4K" tvg-logo="noimage.png" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+", LaLiga TV Hypermotion 8 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/116833
+
+#EXTINF:-1 tvg-id="LaLiga TV Hypermotion 8 HD" tvg-logo="noimage.png" group-title="ESPAÑA | LALIGA TV HYPERMOTION POR M+", LaLiga TV Hypermotion 8 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116834
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+", M+ Liga de Campeones 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/116095
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+", M+ Liga de Campeones HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116096
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+", M+ Liga de Campeones SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116097
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+", M+ Liga de Campeones 2 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/116098
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+", M+ Liga de Campeones 2 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116099
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+", M+ Liga de Campeones 2 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116100
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+", M+ Liga de Campeones 3 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/116101
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+", M+ Liga de Campeones 3 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116102
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+", M+ Liga de Campeones 3 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116103
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+", M+ Liga de Campeones 4 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/116173
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+", M+ Liga de Campeones 4 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116174
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+", M+ Liga de Campeones 4 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116175
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+", M+ Liga de Campeones 5 4K
+http://567487.dynahost.ovh:80/peluco28/21320450/116176
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+", M+ Liga de Campeones 5 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/116177
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+", M+ Liga de Campeones 5 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116178
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 6" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%206.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+", M+ Liga de Campeones 6 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116179
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 7" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%207.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+", M+ Liga de Campeones 7 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116180
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 8" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%208.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+", M+ Liga de Campeones 8 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116181
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 9 SD" tvg-logo="noimage.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+", M+ Liga de Campeones 9 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116182
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 10 SD" tvg-logo="noimage.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+", M+ Liga de Campeones 10 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116183
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 11 SD" tvg-logo="noimage.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+", M+ Liga de Campeones 11 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116184
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 12 SD" tvg-logo="noimage.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+", M+ Liga de Campeones 12 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116185
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 13 SD" tvg-logo="noimage.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+", M+ Liga de Campeones 13 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/116186
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+", [ORANGE-ES] M Liga de Campeones SD
+http://567487.dynahost.ovh:80/peluco28/21320450/203283
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+", [ORANGE-ES] M Liga de Campeones HD
+http://567487.dynahost.ovh:80/peluco28/21320450/203182
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+", [ORANGE-ES] M Liga de Campeones FHD
+http://567487.dynahost.ovh:80/peluco28/21320450/203079
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+", [ORANGE-ES] M+ Liga de Campeones 2 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/203284
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+", [ORANGE-ES] M+ Liga de Campeones 2 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/203183
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 2 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%202.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+", [ORANGE-ES] M+ Liga de Campeones 2 FHD
+http://567487.dynahost.ovh:80/peluco28/21320450/203080
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+", [ORANGE-ES] M+ Liga de Campeones 3 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/203285
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+", [ORANGE-ES] M+ Liga de Campeones 3 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/203184
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 3 HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%203.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+", [ORANGE-ES] M+ Liga de Campeones 3 FHD
+http://567487.dynahost.ovh:80/peluco28/21320450/203081
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+", [ORANGE-ES] M+ Liga de Campeones 4 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/203286
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+", [ORANGE-ES] M Liga de Campeones 4 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/203185
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 4" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%204.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+", [ORANGE-ES] M Liga de Campeones 4 FHD
+http://567487.dynahost.ovh:80/peluco28/21320450/203082
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+", [ORANGE-ES] M+ Liga de Campeones 5 SD
+http://567487.dynahost.ovh:80/peluco28/21320450/203287
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+", [ORANGE-ES] M Liga de Campeones 5 HD
+http://567487.dynahost.ovh:80/peluco28/21320450/203186
+
+#EXTINF:-1 tvg-id="M+ Liga de Campeones 5" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%205.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+", [ORANGE-ES] M Liga de Campeones 5 FHD
+http://567487.dynahost.ovh:80/peluco28/21320450/203083
+
+#EXTINF:-1 tvg-id="[ORANGE-ES] M+ Liga de Campeones 6 FHD" tvg-logo="noimage.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+", [ORANGE-ES] M+ Liga de Campeones 6 FHD
+http://567487.dynahost.ovh:80/peluco28/21320450/210023
+
+#EXTINF:-1 tvg-id="[ORANGE-ES] M+ Liga de Campeones 7 FHD" tvg-logo="noimage.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+", [ORANGE-ES] M+ Liga de Campeones 7 FHD
+http://567487.dynahost.ovh:80/peluco28/21320450/210024
+
+#EXTINF:-1 tvg-id="[ORANGE-ES] M+ Liga de Campeones 8 FHD" tvg-logo="noimage.png" group-title="ESPAÑA | LIGA DE CAMPEONES POR M+", [ORANGE-ES] M+ Liga de Campeones 8 FHD
+http://567487.dynahost.ovh:80/peluco28/21320450/210025
+
+#EXTINF:-1 tvg-id="RUN-TIME COMEDIA" tvg-logo="noimage.png" group-title="ESPAÑA | CINE 24H", RUN-TIME COMEDIA
+http://567487.dynahost.ovh:80/peluco28/21320450/114105
+
+#EXTINF:-1 tvg-id="RUN-TIME THRILLER + TERROR" tvg-logo="noimage.png" group-title="ESPAÑA | CINE 24H", RUN-TIME THRILLER + TERROR
+http://567487.dynahost.ovh:80/peluco28/21320450/114106
+
+#EXTINF:-1 tvg-id="RUN-TIME SERIES Y  CINE" tvg-logo="noimage.png" group-title="ESPAÑA | CINE 24H", RUN-TIME SERIES Y  CINE
+http://567487.dynahost.ovh:80/peluco28/21320450/114107
+
+#EXTINF:-1 tvg-id="RUN-TIMES  SERIES" tvg-logo="noimage.png" group-title="ESPAÑA | CINE 24H", RUN-TIMES  SERIES
+http://567487.dynahost.ovh:80/peluco28/21320450/114108
+
+#EXTINF:-1 tvg-id="RUN-TIME ACCION" tvg-logo="noimage.png" group-title="ESPAÑA | CINE 24H", RUN-TIME ACCION
+http://567487.dynahost.ovh:80/peluco28/21320450/114109
+
+#EXTINF:-1 tvg-id="RUN-TIME CRIMEN" tvg-logo="noimage.png" group-title="ESPAÑA | CINE 24H", RUN-TIME CRIMEN
+http://567487.dynahost.ovh:80/peluco28/21320450/114110
+
+#EXTINF:-1 tvg-id="RUN-TIME CLASICOS" tvg-logo="noimage.png" group-title="ESPAÑA | CINE 24H", RUN-TIME CLASICOS
+http://567487.dynahost.ovh:80/peluco28/21320450/114111
+
+#EXTINF:-1 tvg-id="CINES VERDI TV" tvg-logo="noimage.png" group-title="ESPAÑA | CINE 24H", CINES VERDI TV
+http://567487.dynahost.ovh:80/peluco28/21320450/114112
+
+#EXTINF:-1 tvg-id="CINE FEEL GOOD" tvg-logo="noimage.png" group-title="ESPAÑA | CINE 24H", CINE FEEL GOOD
+http://567487.dynahost.ovh:80/peluco28/21320450/114113
+
+#EXTINF:-1 tvg-id="INTI ORIGIN" tvg-logo="noimage.png" group-title="ESPAÑA | CINE 24H", INTI ORIGIN
+http://567487.dynahost.ovh:80/peluco28/21320450/114115
+
